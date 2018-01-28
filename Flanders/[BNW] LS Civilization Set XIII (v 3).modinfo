@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="881e4e12-9607-4c1d-aad0-f874d74d83fa" version="3">
+  <Properties>
+    <Name>[BNW] Flanders</Name>
+    <Teaser>Adds Flanders to the game.</Teaser>
+    <Description>tested with vox populi</Description>
+    <Authors>LastSword</Authors>
+    <SpecialThanks>hokath</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="2AF22FA3CD04D791F612EA804822B92B" import="1">Lace/Art/hainaut_atlas128.dds</File>
+    <File md5="7ADE9B13B0F56FBBEF46E6509759251C" import="1">Lace/Art/hainaut_atlas256.dds</File>
+    <File md5="3063EB2AEFFCB05E2D7029D9DFA20E84" import="1">Lace/Art/hainaut_atlas32.dds</File>
+    <File md5="C4F94266FE6E50746D6EE9A8FEC8DF95" import="1">Lace/Art/hainaut_atlas45.dds</File>
+    <File md5="442E8AD07DF57F9FE5A9B2D12E7451F6" import="1">Lace/Art/hainaut_atlas64.dds</File>
+    <File md5="BF44A6470F22AB997F518BA5EE0AE892" import="1">Lace/Art/hainaut_atlas80.dds</File>
+    <File md5="A2D414317BB6FB73B02B8B2698D8B781" import="1">Lace/Art/LaceFontIcons_22.ggxml</File>
+    <File md5="517BB90696B4F3D4AD7561EE6CB1DAB5" import="1">Lace/Art/Lace-FontIcons.dds</File>
+    <File md5="C53887AD77C26DB88BBBC352C2AAEE40" import="0">Lace/ArtDefines.sql</File>
+    <File md5="DDB8F5531EDB30151BE7466650D7AD2F" import="0">Lace/Atlas.xml</File>
+    <File md5="CFFA83E684BA80FD33C667AFDC2A543C" import="0">Lace/Buildings.sql</File>
+    <File md5="357014CB7E8E1DA909D719BF17173F5F" import="0">Lace/GameText.xml</File>
+    <File md5="07FCF53AED1C2E1EB2C29C038BA16CBF" import="1">Chasseur/Art/Graphics/civ5_swerm1.fbx</File>
+    <File md5="C12E1992601585621BA69FB587C1E422" import="1">Chasseur/Art/Graphics/civ5_swerm1.fxsxml</File>
+    <File md5="E2FAA3CEC206A58D5F5FBAA778DA1BAF" import="1">Chasseur/Art/Graphics/civ5_swerm1.gr2</File>
+    <File md5="AE8384480CAD1D4BBBA0F83F567FC515" import="1">Chasseur/Art/Graphics/sv_Chasseur.dds</File>
+    <File md5="5FB636557846F6ED0395784E83E9F54A" import="1">Chasseur/Art/Graphics/swerm1.dds</File>
+    <File md5="505D25114B00306E1A284F8E145085AC" import="1">Chasseur/Art/Graphics/swerm1_sref.dds</File>
+    <File md5="F3DC7006535C2B464BC3672FA9169448" import="1">Chasseur/Art/JFD_ChasseurUnitFlag_32.dds</File>
+    <File md5="EAD23E7D340934D8CB3CEF63EB597C76" import="1">Chasseur/Art/luxembourg_atlas128.dds</File>
+    <File md5="A02069B8AD7E6236E6F538C3DFACB6E8" import="1">Chasseur/Art/luxembourg_atlas256.dds</File>
+    <File md5="0994214BDD9B9C5852404F4F2E77B2C7" import="1">Chasseur/Art/luxembourg_atlas32.dds</File>
+    <File md5="505E031558CCAA3B4E62DC9FB354EA17" import="1">Chasseur/Art/luxembourg_atlas45.dds</File>
+    <File md5="CF6588C53FF4C34634AE1FBAF56E60BD" import="1">Chasseur/Art/luxembourg_atlas64.dds</File>
+    <File md5="662A9CF756559BAF581915B95835791F" import="1">Chasseur/Art/luxembourg_atlas80.dds</File>
+    <File md5="829C82ABFD94641F1A7BE275A51178BC" import="0">Chasseur/ArtDefines.sql</File>
+    <File md5="27131FE6D3E87DBEFB4B3DD9C42750BE" import="0">Chasseur/Atlas.xml</File>
+    <File md5="AD9E59DE2CF2797FB52E4DAE8AE1508D" import="0">Chasseur/Promotions.sql</File>
+    <File md5="A931BA851BE75F8DD762B98A6E32F499" import="0">Chasseur/Units.sql</File>
+    <File md5="2CDFBC1B4D2791F993EF5EF453C57CED" import="0">Chasseur/GameText.xml</File>
+    <File md5="9E78DB9784F0FBBA24F5E156366D363D" import="0">Flanders/Diplomacy.sql</File>
+    <File md5="A83802DD531F50987675A99E48EAC5A1" import="0">Flanders/Flanders Mod.xml</File>
+    <File md5="0AD412A9BA65682D4779433238D3EBA3" import="1">Flanders/DiploFlandersLSMod.dds</File>
+    <File md5="7AF4A0AD848A1A13716AAE56003BBD1D" import="1">Flanders/DoMFlandersLSMod.dds</File>
+    <File md5="895EB807648372F3A03B09724B0DAE21" import="0">Flanders/Flanders Civ Mod.xml</File>
+    <File md5="84FA77E1B719864155E50D2F8FF0F079" import="0">Flanders/Flanders Game Text Mod.xml</File>
+    <File md5="3FFA202EAEAD5D0B750472EE18066C37" import="0">Flanders/Flanders Leader Mod.xml</File>
+    <File md5="DFF07115039580E6D16893460B2E68EB" import="0">Flanders/Flanders Units Mod.xml</File>
+    <File md5="30424C4CB4ABFF36EB34B26DA8704CEE" import="1">Flanders/FlandersUnitAlphaAtlas.dds</File>
+    <File md5="5882BF8F7769F105BD0BDA8A34F86B2E" import="1">Flanders/Flanders_Leader_Scene_LS_Mod.xml</File>
+    <File md5="042F18161D79C9E8172028BCB782D1F1" import="0">Flanders/Flanders Improvement Mod.xml</File>
+    <File md5="EFC22DA7EA615786E2DF5F9016B5CDD3" import="1">Flanders/Flanders Civ Related.lua</File>
+    <File md5="5F0D023E359D74F53576B4578D752219" import="0">Flanders/Flanders Mod.lua</File>
+    <File md5="495DD4585E38ED7947C0A5DF5ACCE91D" import="0">Flanders/ImprovementStuff/FlandersLandmark.sql</File>
+    <File md5="2002794DEDF4D23FC22F7A48B2930CDE" import="1">Flanders/ImprovementStuff/FlandersLSBuildAtlas45.dds</File>
+    <File md5="0DDA8C3CB46DF9C3D6E3005FB9536326" import="1">Flanders/ImprovementStuff/FlandersLSBuildAtlas64.dds</File>
+    <File md5="ECB2AC69974CB9CFC3E4A9BE8E9F49D5" import="1">Flanders/ImprovementStuff/FlandersLSUIAtlas256.dds</File>
+    <File md5="0AC6A40693D34758E296983E3AE4054D" import="1">Flanders/ImprovementStuff/FlandersLSUIAtlas45.dds</File>
+    <File md5="32E75757CBBDA7A9332B768C0D375E76" import="1">Flanders/ImprovementStuff/FlandersLSUIAtlas64.dds</File>
+    <File md5="174E278BAFDC522070A31C7E61CAACDE" import="1">Flanders/ImprovementStuff/LuxuryLSTapestry256.dds</File>
+    <File md5="3E32CC272220C535E8A93B06E3E53A8F" import="1">Flanders/ImprovementStuff/LuxuryLSTapestry45.dds</File>
+    <File md5="E966C3965E53DD3CE203DA911F7C3F8F" import="1">Flanders/ImprovementStuff/LuxuryLSTapestry64.dds</File>
+    <File md5="9F51CF05B4EB2A4A550CFFA0F16EFD78" import="1">Flanders/ImprovementStuff/LuxuryLSTapestry80.dds</File>
+    <File md5="4CAA19D560C33BDE05A9755D8166EC1C" import="1">Flanders/ImprovementStuff/LuxuryLSTapestryFont.dds</File>
+    <File md5="B5E12ADD9DB7A000F0ABC944034FFE38" import="1">Flanders/ImprovementStuff/LuxuryLSTapestryFontIcon.ggxml</File>
+    <File md5="7D68E3486CD18483AFBC36D0201ED5C7" import="1">Flanders/MapFlandersLSMod.dds</File>
+    <File md5="BE903D48E38860EF52BF052F2D8EEED5" import="0">Flanders/Model/FlandersArtDefine.sql</File>
+    <File md5="8E80BFB6D1DE2FFA59E429863A77795C" import="1">Flanders/Model/Pikeman_England.blend</File>
+    <File md5="F231D61B3CCFBBA3FEFD39DE92CC85A2" import="1">Flanders/Model/Pikeman_England.dds</File>
+    <File md5="89316F61FD114AF5C45494E61804074C" import="1">Flanders/Model/Pikeman_England.fxsxml</File>
+    <File md5="6B90450C410974FB8449133CA150EC18" import="1">Flanders/Model/Pikeman_England.gr2</File>
+    <File md5="589F75249EC0C67480EE447A6074C958" import="1">Flanders/Model/Pikeman_England.jpg</File>
+    <File md5="72B8CC3D3A333A597CF4ED14D0D1A849" import="1">Flanders/Model/Pikeman_England_gloss.dds</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Flanders/SaveUtils.lua</File>
+    <File md5="823C6EF73222CA81E7BF2DF4D4E667D9" import="1">Flanders/LSFlandersPeaceMusic.mp3</File>
+    <File md5="63D742133ADBF9CBB5629858F8A3364B" import="1">Flanders/LSFlandersWarMusic.mp3</File>
+    <File md5="714AD17E8BBBA7ACB3F5D73B9685F525" import="1">Flanders/SV_FlandersLS.dds</File>
+    <File md5="95A55E6CAAFA97ED01C985AEBFA085DC" import="1">Folder/AlphaLS13Atlas24.dds</File>
+    <File md5="EAC50C2DD5C66956B1F716C2F52002CA" import="1">Folder/AlphaLS13Atlas32.dds</File>
+    <File md5="EC1FD9977575407A2A466273BA07E3C2" import="1">Folder/AlphaLS13Atlas48.dds</File>
+    <File md5="003FDC230B95EF9E3A683A9165E4C591" import="1">Folder/AlphaLS13Atlas64.dds</File>
+    <File md5="FA451E17AD6F934B19BA79C69B0DB972" import="1">Folder/BuildingLS13Atlas128.dds</File>
+    <File md5="8851185CCB9CF02311B7BD4884C78FF1" import="1">Folder/BuildingLS13Atlas256.dds</File>
+    <File md5="8D8A292F78516B0313C36F84523B4755" import="1">Folder/BuildingLS13Atlas45.dds</File>
+    <File md5="B5FD357B4D3F0C05931841FB2F8F3CAD" import="1">Folder/BuildingLS13Atlas64.dds</File>
+    <File md5="1607AEF4868E94BA53F4241696192D02" import="1">Folder/CivLS13Atlas128.dds</File>
+    <File md5="A13E2B2E0728D8D8EB0C0CACF24351B1" import="1">Folder/CivLS13Atlas256.dds</File>
+    <File md5="3CAFC2DD113BB4067334614F2A2E5CEF" import="1">Folder/CivLS13Atlas32.dds</File>
+    <File md5="B310B6577623AB98C2E15B81B8529CDC" import="1">Folder/CivLS13Atlas45.dds</File>
+    <File md5="C9A302166335B5461A45A11C26D0253B" import="1">Folder/CivLS13Atlas64.dds</File>
+    <File md5="94C13BBADC20A0F3924365823F406E28" import="1">Folder/CivLS13Atlas80.dds</File>
+    <File md5="51E98498650D980C1A7C12DAC107097E" import="1">Folder/LeaderLS13Atlas128.dds</File>
+    <File md5="110B912CEB521C30107448A2ECEA961A" import="1">Folder/LeaderLS13Atlas256.dds</File>
+    <File md5="443602992774A9619186BC512499C9B9" import="1">Folder/LeaderLS13Atlas64.dds</File>
+    <File md5="1240BECC22E633193A975FD0EE3B8D8E" import="0">Folder/LS13 Atlas Mod.xml</File>
+    <File md5="9EAE773C1EA446FF9B477773DE9E77D8" import="1">Folder/UnitLS13Atlas128.dds</File>
+    <File md5="4F5EE73FA68D4EAEA75F16004E76F977" import="1">Folder/UnitLS13Atlas256.dds</File>
+    <File md5="35D11E36089220A5C80330DE34AF4B9D" import="1">Folder/UnitLS13Atlas45.dds</File>
+    <File md5="1ABAF67BF73ADC431AF6ED7132929765" import="1">Folder/UnitLS13Atlas64.dds</File>
+    <File md5="5D182C3969AC07F918811FAC075B3394" import="1">Folder/UnitLS13Atlas80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Lace/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Lace/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Lace/Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Lace/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Chasseur/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Chasseur/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Chasseur/Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Chasseur/Promotions.sql</UpdateDatabase>
+      <UpdateDatabase>Chasseur/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Folder/LS13 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/ImprovementStuff/FlandersLandmark.sql</UpdateDatabase>
+      <UpdateDatabase>Flanders/Model/FlandersArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Flanders/Flanders Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/Flanders Improvement Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/Flanders Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/Flanders Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/Flanders Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Flanders/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Flanders/Flanders Mod.lua">
+      <Name>Lion</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

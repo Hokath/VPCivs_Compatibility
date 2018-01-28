@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2b06b560-17b0-4103-9fdb-fb6c2a0fbc6e" version="22">
+  <Properties>
+    <Name>[BNW] Zimbabwe</Name>
+    <Teaser>Adds the Zimbabwe civilization.</Teaser>
+    <Description>Mod is created for and tested on vox populi</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="EE461E2102BA74BB3BA553B6170452D3" import="0">Safari/Resources.xml</File>
+    <File md5="92E627DBC3A29A44A6D3EB2C79502468" import="0">Safari/SafariPark.xml</File>
+    <File md5="4B48A55C691E399B6F814A85FFFBFCA2" import="1">Safari/Art/South_Africa_IconAtlas_resources128.dds</File>
+    <File md5="D46810FAA91FDDF23A74669213BAA2EF" import="1">Safari/Art/South_Africa_IconAtlas_resources256.dds</File>
+    <File md5="CA36B40C0073AFECFEAF04FA80FCE8AE" import="1">Safari/Art/South_Africa_IconAtlas_resources32.dds</File>
+    <File md5="D50D3D3F8F391F76AFD0050397F364C4" import="1">Safari/Art/South_Africa_IconAtlas_resources45.dds</File>
+    <File md5="13D774DB78C4E2D279622ED8209E499D" import="1">Safari/Art/South_Africa_IconAtlas_resources64.dds</File>
+    <File md5="EFA1184136F8CAA464FDB01227028D58" import="1">Safari/Art/South_Africa_IconAtlas_resources80.dds</File>
+    <File md5="7DC66BA5B46BA7C0CE62251FF55343A1" import="1">Safari/Art/South_Africa_IconAtlas128.dds</File>
+    <File md5="1E3CAB50A624B65ECAFB381BE8906832" import="1">Safari/Art/South_Africa_IconAtlas256.dds</File>
+    <File md5="433A6DE2137CB8737A4C0333FE0717CB" import="1">Safari/Art/South_Africa_IconAtlas32.dds</File>
+    <File md5="A225DCD4E9D6856190B9ACD0488BE158" import="1">Safari/Art/South_Africa_IconAtlas45.dds</File>
+    <File md5="B62D005B5E46C45464A35F4C4DD693C2" import="1">Safari/Art/South_Africa_IconAtlas64.dds</File>
+    <File md5="4780A462EA43CA51F5FD18EB7A24C082" import="1">Safari/Art/South_Africa_IconAtlas80.dds</File>
+    <File md5="C7DBD23ED4E847886F7D98304A8813E0" import="1">Safari/Art/South_Africa_Resources_fonticon.dds</File>
+    <File md5="3DE2975216BEDA93B2F603E600FEF7A2" import="1">Safari/Art/South_Africa_Resources_fonticon.ggxml</File>
+    <File md5="CD6191A36E410C404ED409E99D22CC73" import="0">Safari/CL_South_Africa_ArtDefines.sql</File>
+    <File md5="56AF3D3ED6DF5B621A34F2FA8AF455F3" import="1">Paratrooper/Art/civ5rhodesiaatlas128.dds</File>
+    <File md5="0C2A72BC44653E0B8BFD786838537225" import="1">Paratrooper/Art/civ5rhodesiaatlas256.dds</File>
+    <File md5="F572F258BDAA0E5C7F5FAE47CD70C55F" import="1">Paratrooper/Art/civ5rhodesiaatlas32.dds</File>
+    <File md5="21EB3D5B57B92F97E3215868A7BED398" import="1">Paratrooper/Art/civ5rhodesiaatlas45.dds</File>
+    <File md5="AB39A61D941BC0F221BDD16D93DFC3B5" import="1">Paratrooper/Art/civ5rhodesiaatlas48.dds</File>
+    <File md5="94577A265F6FB5E6C987D32883CAAF36" import="1">Paratrooper/Art/civ5rhodesiaatlas64.dds</File>
+    <File md5="22692A29B31EDDB9BBB19AD685A7CA7D" import="1">Paratrooper/Art/civ5rhodesiaatlas80.dds</File>
+    <File md5="6E33E758B853E1114BB487111B8FA075" import="1">Paratrooper/Art/Models/edited_fx_triggers_paratrooper.ftsxml</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">Paratrooper/Art/Models/no_gloss.dds</File>
+    <File md5="EA2603B7B16FBF715B95ED25E87A4FB6" import="1">Paratrooper/Art/Models/Paratrooper_UK.blend</File>
+    <File md5="BB27FFA57A26F24E3DBE133378BA4EFB" import="1">Paratrooper/Art/Models/Paratrooper_UK.dds</File>
+    <File md5="9D3EB4F373DAB7A4EE99D585C7D088A8" import="1">Paratrooper/Art/Models/Paratrooper_UK.fxsxml</File>
+    <File md5="F7216EBB84C8A4ED6DFB1B208787D332" import="1">Paratrooper/Art/Models/Paratrooper_UK.gr2</File>
+    <File md5="75617E23BDA3ADB3ACA351014FBABC90" import="1">Paratrooper/Art/selousscouticon.dds</File>
+    <File md5="091CA972A8E75F3226C1C36D7976A9C6" import="1">Paratrooper/RhodesiaUnits.xml</File>
+    <File md5="D1F62A57228B3EEAB84AA932EFD45EF2" import="1">Paratrooper/RoyalRegimentArtDefines.xml</File>
+    <File md5="ADA2EBE301EE931B2B4013410BB66B83" import="1">Paratrooper/TextureAtlasesRhodesia.xml</File>
+    <File md5="2FD18CAAA82D2D58D53C12C461B8B7C2" import="1">Uncommon/AlphaLS5Atlas24.dds</File>
+    <File md5="1A18BEC11FE0E6E93D2DFC905687A0A3" import="1">Uncommon/AlphaLS5Atlas32.dds</File>
+    <File md5="FF8BF1666DB9076D6E201260AAA666FC" import="1">Uncommon/AlphaLS5Atlas48.dds</File>
+    <File md5="BF89BCD347E12315E057E1665C437C62" import="1">Uncommon/AlphaLS5Atlas64.dds</File>
+    <File md5="867D5A4C60FF8B69EE064D237D3C517E" import="1">Uncommon/BuildingLS5Atlas128.dds</File>
+    <File md5="4784B0F3EB6B9FDE1A607A216954FE38" import="1">Uncommon/BuildingLS5Atlas256.dds</File>
+    <File md5="22E1722D586B9738A6F7FB3E4A0DE20E" import="1">Uncommon/BuildingLS5Atlas45.dds</File>
+    <File md5="39C909EBE40D0E5F7519A9B2C1BAC14A" import="1">Uncommon/BuildingLS5Atlas64.dds</File>
+    <File md5="A256A9F28AAE2C563560C4A209F7B885" import="1">Uncommon/CivLS5Atlas128.dds</File>
+    <File md5="0E5B3F02E50D58381FD587E10D1C2452" import="1">Uncommon/CivLS5Atlas256.dds</File>
+    <File md5="6AFEFA77A2F3F3E03D6A511268813E18" import="1">Uncommon/CivLS5Atlas32.dds</File>
+    <File md5="B57F82EDBD6D7733CB608AED59CE9775" import="1">Uncommon/CivLS5Atlas45.dds</File>
+    <File md5="37839590282525B3DD4F9BBDE5A122A2" import="1">Uncommon/CivLS5Atlas64.dds</File>
+    <File md5="F4BA34E3F536BC5F841AF6CAA7C89876" import="1">Uncommon/CivLS5Atlas80.dds</File>
+    <File md5="15EAC121D6F2F0F542745FA5FFECC9DF" import="1">Uncommon/LeaderLS5Atlas128.dds</File>
+    <File md5="6D061B4B814E4499699B504FBB9B64EE" import="1">Uncommon/LeaderLS5Atlas256.dds</File>
+    <File md5="4D51980582FB974A2A1BDFA23CE1D73D" import="1">Uncommon/LeaderLS5Atlas64.dds</File>
+    <File md5="224D1414FA1103BA82D8FFD32BA71727" import="0">Uncommon/LS5 Atlas Mod.xml</File>
+    <File md5="24A27F2F99ED55177AB55AFD956EEE47" import="1">Uncommon/UnitLS5Atlas128.dds</File>
+    <File md5="6030F5227B0DAD3A829AFC4498CFC396" import="1">Uncommon/UnitLS5Atlas256.dds</File>
+    <File md5="31C87909A6F0ABEBE05A3707E4007787" import="1">Uncommon/UnitLS5Atlas45.dds</File>
+    <File md5="806FC4E65B292A17609E1CFA422A12C3" import="1">Uncommon/UnitLS5Atlas64.dds</File>
+    <File md5="56259D7359CED2CEE6859BE1A53706B3" import="1">Uncommon/UnitLS5Atlas80.dds</File>
+    <File md5="A23154336993930EA079D73697F1B106" import="0">ZimbabweKingdom/Diplomacy.sql</File>
+    <File md5="2073FFC3B8ED6E32ED19C41A96DDCB83" import="1">ZimbabweKingdom/DiploZimbabweLSMod.dds</File>
+    <File md5="635BA3D8561ED5DA9324A8E5BED72314" import="1">ZimbabweKingdom/DoMZimbabweLSMod.dds</File>
+    <File md5="9945234FC5CE11A7672B6CF024C02D81" import="0">ZimbabweKingdom/Zimbabwe Mod.xml</File>
+    <File md5="40F82F567BA79C993A6DCCDABC07172F" import="1">ZimbabweKingdom/MapZimbabweLSMod.dds</File>
+    <File md5="ECEE15E52196EF91DE50F5E7FB776AE3" import="1">ZimbabweKingdom/SV_ZimbabweLS.dds</File>
+    <File md5="25AE7AF494E1EB77A8A5B8851F36D69D" import="1">ZimbabweKingdom/Zimbabwe Civ Related.lua</File>
+    <File md5="7E652D9630204949121F350DFFB02158" import="1">ZimbabweKingdom/Model/impi_1.dds</File>
+    <File md5="3D094C6B1A777A70077A29A48F9166BF" import="1">ZimbabweKingdom/Model/impi_1.fxsxml</File>
+    <File md5="AC3DF6DFEAB8C312423CFB2D05FD1901" import="1">ZimbabweKingdom/Model/impi_1.gr2</File>
+    <File md5="6BB5C921AB17A1A85B8FE4DEE9EE73E5" import="1">ZimbabweKingdom/Model/impi_2.dds</File>
+    <File md5="908FDFD6301BC411BB561EC41870DC25" import="1">ZimbabweKingdom/Model/impi_2.fxsxml</File>
+    <File md5="4271E91C2730FD23C6360D6BAC649D55" import="1">ZimbabweKingdom/Model/impi_2.gr2</File>
+    <File md5="D24B5408503009FD7771879918867BBF" import="1">ZimbabweKingdom/Model/impi_3.dds</File>
+    <File md5="83394A4FDD6110290076ABBD4D7875B6" import="1">ZimbabweKingdom/Model/impi_3.fxsxml</File>
+    <File md5="67F538FCE1B0B5B00B018DAF1060F4DF" import="1">ZimbabweKingdom/Model/impi_3.gr2</File>
+    <File md5="9195F74685E714E68BA4678508A7FEE0" import="1">ZimbabweKingdom/Model/impi_4.dds</File>
+    <File md5="72BF0ABA148EB6872E4B0D2AF0F906EC" import="1">ZimbabweKingdom/Model/impi_4.fxsxml</File>
+    <File md5="5DA2F58547851A2034D78BFAFAF216FE" import="1">ZimbabweKingdom/Model/impi_4.gr2</File>
+    <File md5="CF217E101010D4D34A06E80F11C3AF3F" import="1">ZimbabweKingdom/Model/impi_sref.dds</File>
+    <File md5="8922CC0FB34749289FA13A3EA17FBC7A" import="0">ZimbabweKingdom/Model/ZimbRozwiArtDefine.sql</File>
+    <File md5="B4129238DA9ED44DB6125E36831C91B7" import="0">ZimbabweKingdom/Zimbabwe Building Mod.xml</File>
+    <File md5="ED0C023CC111622C8742815031ADFE64" import="0">ZimbabweKingdom/Zimbabwe Civ Mod.xml</File>
+    <File md5="FD30BBC6B664FEE755F2011741EC7E70" import="0">ZimbabweKingdom/Zimbabwe Game Text Mod.xml</File>
+    <File md5="F5BD6D0FD0E3662D34941719D5385035" import="0">ZimbabweKingdom/Zimbabwe Leader Mod.xml</File>
+    <File md5="5574C535096EB41F0C3B86B7B54DD2EB" import="0">ZimbabweKingdom/Zimbabwe Units Mod.xml</File>
+    <File md5="04FC658FA96C6D81EDF93691231E7B93" import="1">ZimbabweKingdom/ZimbabwePeaceMusic.mp3</File>
+    <File md5="A05DE869B325EBDCA8E299EFA413D92B" import="1">ZimbabweKingdom/ZimbabweUnitAlphaAtlas.dds</File>
+    <File md5="70A5DA6DAC0ED2DE66895B25DCCA6AEE" import="1">ZimbabweKingdom/ZimbabweWarMusic.mp3</File>
+    <File md5="E82C159BAFEE79D7396F478983DC75F6" import="1">ZimbabweKingdom/Zimbabwe_Leader_Scene_LS_Mod.xml</File>
+    <File md5="B2EC7D4E959BC2DBA6D3982FAF999C62" import="1">ZimbabweKingdom/Zimbabwe Mod.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Safari/CL_South_Africa_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Safari/Resources.xml</UpdateDatabase>
+      <UpdateDatabase>Safari/SafariPark.xml</UpdateDatabase>
+      <UpdateDatabase>Paratrooper/RoyalRegimentArtDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Paratrooper/TextureAtlasesRhodesia.xml</UpdateDatabase>
+      <UpdateDatabase>Paratrooper/RhodesiaUnits.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Zimbabwe Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Uncommon/LS5 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Model/ZimbRozwiArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>ZimbabweKingdom/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="ZimbabweKingdom/Zimbabwe Mod.lua">
+      <Name>Zimbabwe</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

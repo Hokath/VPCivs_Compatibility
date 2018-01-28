@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GARA_PRODUCTION_EDIT_BUILDING</Type>
+			<DefaultBuilding>BUILDING_GARA_PRODUCTION_EDIT_BUILDING</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GARA_PRODUCTION_EDIT_BUILDING</Description>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_GARAMANTES_DECISION_DUMMY</Type>
+			<DefaultBuilding>BUILDING_GARAMANTES_DECISION_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_CIVLOPEDIA_GARA_PRODUCTION_EDIT_BUILDING_TEXT</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARA_PRODUCTION_EDIT_BUILDING</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARA_PRODUCTION_EDIT_BUILDING</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARAMANTES_DECISION_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARAMANTES_DECISION_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+</GameData>

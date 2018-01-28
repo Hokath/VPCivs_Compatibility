@@ -1,0 +1,402 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TIBET_LS_MOD_DESC">
+			<Text>Tibetan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIBET_LS_MOD_SHORT_DESC">
+			<Text>Tibet</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_TIBET_LS_MOD_ADJECTIVE">
+			<Text>Tibetan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TIBET_LS_MOD">
+			<Text>Tibet</Text>
+			<Plurality>1</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIBET_LS_MOD_HEADING_1">
+			<Text>Tibetans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIBET_LS_MOD_TEXT_1">
+			<Text>Humans inhabited the Tibetan Plateau at least 21,000 years ago. This population was largely replaced around 3,000 BP by Neolithic immigrants from northern China. However, there is a partial genetic continuity between the Paleolithic inhabitants and the contemporary Tibetan populations.[NEWLINE][NEWLINE]The earliest Tibetan historical texts identify the Zhang Zhung culture as a people who migrated from the Amdo region into what is now the region of Guge in western Tibet. Zhang Zhung is considered to be the original home of the Bön religion. By the 1st century BCE, a neighboring kingdom arose in the Yarlung valley, and the Yarlung king, Drigum Tsenpo, attempted to remove the influence of the Zhang Zhung by expelling the Zhang's Bön priests from Yarlung. He was assassinated and Zhang Zhung continued its dominance of the region until it was annexed by Songtsen Gampo in the 7th century.[NEWLINE][NEWLINE]Prior to Songtsän Gampo, the kings of Tibet were more mythological than factual, and there is insufficient evidence of their existence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIBET_LS_MOD_HEADING_2">
+			<Text>History of the Tibetan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_TIBET_LS_MOD_TEXT_2">
+			<Text>The history of a unified Tibet begins with the rule of Songtsän Gampo (604–650 CE) who united parts of the Yarlung River Valley and founded the Tibetan Empire. He also brought in many reforms and Tibetan power spread rapidly creating a large and powerful empire. It is traditionally considered that his first wife was the Princess of Nepal, Bhrikuti, and that she played a great role in establishment of Buddhism in Tibet. In 640 he married Princess Wencheng, the niece of the powerful Chinese emperor Taizong of Tang China.[NEWLINE][NEWLINE]Under the next few Tibetan kings, Buddhism became established as the state religion and Tibetan power increased even further over large areas of Central Asia, while major inroads were made into Chinese territory, even reaching the Tang's capital Chang'an (modern Xi'an) in late 763. However, the Tibetan occupation of Chang'an only lasted for fifteen days, after which they were defeated by Tang and its ally, the Turkic Uyghur Khaganate.[NEWLINE][NEWLINE]In 747, the hold of Tibet was loosened by the campaign of general Gao Xianzhi, who tried to re-open the direct communications between Central Asia and Kashmir. By 750 the Tibetans had lost almost all of their central Asian possessions to the Chinese. However, after Gao Xianzhi's defeat by the Arabs and Qarluqs at the Battle of Talas (751) and the subsequent civil war (755), Chinese influence decreased rapidly and Tibetan influence resumed. In 821/822 CE Tibet and China signed a peace treaty. A bilingual account of this treaty, including details of the borders between the two countries, is inscribed on a stone pillar which stands outside the Jokhang temple in Lhasa. Tibet continued as a Central Asian empire until the mid-9th century, when a civil war over succession led to the collapse of imperial Tibet. The period that followed is known traditionally as the Era of Fragmentation, when political control over Tibet became divided between regional warlords and tribes with no dominant centralized authority.[NEWLINE][NEWLINE]The Mongolian Yuan dynasty, through the Bureau of Buddhist and Tibetan Affairs, or Xuanzheng Yuan, ruled Tibet through a top-level administrative department. One of the department's purposes was to select a dpon-chen ('great administrator'), usually appointed by the lama and confirmed by the Mongol emperor in Beijing. The Sakya lama retained a degree of autonomy, acting as the political authority of the region, while the dpon-chen held administrative and military power. Mongol rule of Tibet remained separate from the main provinces of China, but the region existed under the administration of the Yuan Dynasty. If the Sakya lama ever came into conflict with the dpon-chen, the dpon-chen had the authority to send Chinese troops into the region.[NEWLINE][NEWLINE]Yuan control over the region ended with the Ming overthrow of the Yuan and Tai Situ Changchub Gyaltsen's revolt against the Mongols. Following the uprising, Tai Situ Changchub Gyaltsen founded the Phagmodrupa dynasty, and sought to reduce Yuan influences over Tibetan culture and politics.[NEWLINE][NEWLINE]In 1578, Altan Khan of the Tümed Mongols gave Sonam Gyatso, a high lama of the Gelugpa school, the name Dalai Lama; Dalai being the Mongolian translation of the Tibetan name Gyatso, or "Ocean".[NEWLINE][NEWLINE]The first Europeans to arrive in Tibet were the Portuguese missionaries António de Andrade and Manuel Marques in 1624. They were welcomed by the King and Queen of Guge, and were allowed to build a church and to introduce Christian belief. The king of Guge eagerly accepted Christianity as an offsetting religious influence to dilute the thriving Gelugpa and to counterbalance his potential rivals and consolidate his position. All missionaries were expelled in 1745.[NEWLINE][NEWLINE]The Qing dynasty placed Amdo under their control in 1724, and incorporated eastern Kham into neighbouring Chinese provinces in 1728. Meanwhile, the Qing government sent a resident commissioner, called an Amban, to Lhasa. In 1750 the Ambans and majority of the Han Chinese and Manchus living in Lhasa were killed in a riot, and Qing troops arrived quickly and suppressed the rebels in the next year. Like the preceding Yuan dynasty, the Manchus of the Qing dynasty exerted military and administrative control of the region, while granting it a degree of political autonomy. The Qing commander publicly executed a number of supporters of the rebels, and, as in 1723 and 1728, made changes in the political structure and drew up a formal organization plan. The Qing now restored the Dalai Lama as a ruler leading a government called Kashag but elevated the role of Amban to include more direct involvement in Tibetan internal affairs. At the same time the Qing took steps to counterbalance the power of the aristocracy by adding officials recruited from the clergy to key posts.[NEWLINE][NEWLINE]For several decades, peace reigned in Tibet, but in 1792 the Qing Qianlong Emperor sent a large Chinese army into Tibet to push the invading Nepalese out. This prompted yet another Qing reorganization of the Tibetan government, this time through a written plan called the "Twenty-Nine Regulations for Better Government in Tibet". Qing military garrisons staffed with Qing troops were now also established near the Nepalese border. Tibet was dominated by the Manchus in various stages in the 18th century, and the years immediately following the 1792 regulations were the peak of the Qing imperial commissioners' authority; but there was no attempt to make Tibet a Chinese province.[NEWLINE][NEWLINE]In 1834 the Sikh Empire invaded and annexed Ladakh, a culturally Tibetan region that was an independent kingdom at the time. Seven years later a Sikh army led by General Zorawar Singh invaded western Tibet from Ladakh, starting the Sino-Sikh War. A Qing-Tibetan army repelled the invaders but was in turn defeated when it chased the Sikhs into Ladakh. The war ended with the signing of the Treaty of Chushul between the Chinese and Sikh empires.[NEWLINE][NEWLINE]As the Qing dynasty weakened, its authority over Tibet also gradually declined and by the mid-19th century, its influence was minuscule. Qing authority over Tibet had become more symbolic than real by the late 19th century, although in the 1860s the Tibetans still chose for reasons of their own to emphasize the empire's symbolic authority and make it seem substantial.[NEWLINE][NEWLINE]This period also saw some contacts with Jesuits and Capuchins from Europe, and in 1774 a Scottish nobleman, George Bogle, came to Shigatse to investigate trade for the British East India Company. However, by the 19th century the situation of foreigners in Tibet grew more tenuous. The British Empire was encroaching from northern India into the Himalayas, the Emirate of Afghanistan and the Russian Empire were expanding into Central Asia and each power became suspicious of the others' intentions in Tibet.[NEWLINE][NEWLINE]In 1904, a British expedition to Tibet, spurred in part by a fear that Russia extended its power into Tibet as part of The Great Game, invaded the country and hoping that negotiations with the 13th Dalai Lama would be more effective than with Chinese representatives. When the British-led invasion reached Tibet, an armed confrontation with the ethnic Tibetans resulted in the Massacre of Chumik Shenko, after which Francis Younghusband imposed a treaty which was subsequently repudiated, and was succeeded by a 1906 treaty signed between Britain and China.[NEWLINE][NEWLINE]In 1910, the Qing government sent a military expedition of its own under Zhao Erfeng to establish direct Manchu-Chinese rule and deposed the Dalai Lama in an imperial edict, who fled to British India. Zhao Erfeng defeated the Tibetan military conclusively and expelled the Dalai Lama's forces from the province. However, his actions were unpopular, and there was much animosity against him for his mistreatment of civilians and disregard for local culture.[NEWLINE][NEWLINE]After the Xinhai Revolution (1911–12) toppled the Qing dynasty and the last Qing troops were escorted out of Tibet, the new Republic of China apologized for the actions of the Qing and offered to restore the Dalai Lama's title. The Dalai Lama refused any Chinese title, and declared himself ruler of an independent Tibet. In 1913 Tibet and Mongolia concluded treaty on mutual recognition. For the next 36 years, the 13th Dalai Lama and the regents who succeeded him governed Tibet. During this time, Tibet fought Chinese warlords for control of the ethnically Tibetan areas in Xikang and Qinghai (parts of Kham and Amdo) along the upper reaches of the Yangtze River. In 1914 the Tibetan government signed the Simla Accord with Britain, ceding the South Tibet region to British India. The Chinese government denounced the agreement as illegal. When the regents in the 1930s and 40s displayed negligence in affairs, the Kuomintang Government of the Republic of China used this to their advantage to expand their reach into the territory.[NEWLINE][NEWLINE]Emerging with control over most of mainland China after the Chinese Civil War, the People's Republic of China incorporated Tibet in 1950 and negotiated the Seventeen Point Agreement with the newly enthroned 14th Dalai Lama's government, affirming the People's Republic of China's sovereignty but granting the area autonomy. Subsequently, on his journey into exile, the 14th Dalai Lama completely repudiated the agreement, which he has repeated on many occasions.[NEWLINE][NEWLINE]After the Dalai Lama government fled to Dharamsala, India, during the 1959 Tibetan Rebellion, it established a rival government-in-exile. Afterwards, the Central People's Government in Beijing renounced the agreement and began implementation of the halted social and political reforms. During the Great Leap Forward between 200,000 and 1,000,000 Tibetans died, and approximately 6,000 monasteries were destroyed during the Cultural Revolution. In 1962 China and India fought a brief war over the disputed South Tibet and Aksai Chin regions. Although China won the war, Chinese troops withdrew north of the McMahon Line, effectively ceding South Tibet to India.[NEWLINE][NEWLINE]In 1980, General Secretary and reformist Hu Yaobang visited Tibet, and ushered in a period of social, political, and economic liberalization. At the end of the decade, however analogously to the Tiananmen Square protests of 1989, monks in the Drepung and Sera monasteries started protesting for independence, and so the government halted reforms and started an anti-separatist campaign. Human rights organisations have been critical of the Beijing and Lhasa governments' approach to human rights in the region when cracking down on separatist convulsions that have occurred around monasteries and cities, most recently in the 2008 Tibetan unrest.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_1">
+			<Text>Lhasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_2">
+			<Text>Lhokha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_3">
+			<Text>Gyantse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_4">
+			<Text>Nagqu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_5">
+			<Text>Shigatse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_6">
+			<Text>Zhangmu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_7">
+			<Text>Ngari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_8">
+			<Text>Nyingchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_9">
+			<Text>Qamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_10">
+			<Text>Tsedang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_11">
+			<Text>Nyalam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_12">
+			<Text>Xegar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_13">
+			<Text>New Tingri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_14">
+			<Text>Barkhor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_15">
+			<Text>Norbulinka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_16">
+			<Text>Lhunzhub</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_17">
+			<Text>Amdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_18">
+			<Text>Biru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_19">
+			<Text>Sog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_20">
+			<Text>Xainza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_21">
+			<Text>Chamdo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_22">
+			<Text>Riwoche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_23">
+			<Text>Jomda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_24">
+			<Text>Dengchen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_25">
+			<Text>Markham</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_26">
+			<Text>Gonjo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_27">
+			<Text>Nangartse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_28">
+			<Text>Medog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TIBET_LS_MOD_29">
+			<Text>Bomi</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_0">
+			<Text>Ninguerre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_1">
+			<Text>Mingma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_2">
+			<Text>Jigme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_3">
+			<Text>Gyaltso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_4">
+			<Text>Anil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_5">
+			<Text>Pemala</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_6">
+			<Text>Lhamu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_7">
+			<Text>Keyuri</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_8">
+			<Text>Gawa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TIBET_LS_MOD_9">
+			<Text>Chesa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DESC">
+			<Text>Songtsän Gampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_NAME">
+			<Text>Songtsän Gampo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_LIVED">
+			<Text>617 - 649 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_SUBTITLE">
+			<Text>Emperor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_TEXT_1">
+			<Text>According to Tibetan tradition, Songstän Gampo was enthroned while still a minor as the thirty-third king of the Yarlung Dynasty after his father was poisoned circa 618. He is said to have been born in an unspecified Ox year and was 13 years old when he took the throne. This accords with the tradition that the Yarlung kings took the throne when they were 13, and supposedly old enough to ride a horse and rule the kingdom.[NEWLINE][NEWLINE]Songtsän Gampo's mother was, according to tradition, Dringma Togo of the Tsepong clan, which played an important part in the unification of Tibet. He also married Trimonyen Dongsten of the Mong clan, who is said to have been the mother of Gungsong Gungsten; and is said to have had several other wives: a noble woman from Minyak, the Nepali princess Bhrikuti Devi (whom many modern scholars are doubtful about), and a princess from Zhangzhung, as well as the Chinese Princess Wencheng, or Munchang Kongcho.[NEWLINE][NEWLINE]Songtsän Gampo's heir, Gungsong Gungsten, died before his father, so his son, Manglon Mangsten, took the throne. His mother is sometimes said to have been the Chinese princess, Munchang Koncho, but this is thought to be highly unlikely. His mother was most probably Mangmoje Trikar, who is mentioned in the Genealogy found in the "hidden library" in the caves in Dunhuang (which lists the names of the Tibetan emperors and the names of their consorts who bore future emperors, and the clans they came from).[NEWLINE][NEWLINE]Songtsän Gampo is said to have sent his minister Thonmi Sambhota to India to devise a script for the Tibetan language, which led to the creation of the first Tibetan literary works and translations, court records and a constitution. He is also credited with bringing many new cultural and technological advances to Tibet. The Jiu Tangshu, or Old Book of Tang, states that after the defeat in 648 of an Indian army in support of Chinese envoys, the Chinese Emperor, Gaozong, a devout Buddhist, gave him the title variously written Binwang, "Guest King" or Zongwang, "Cloth-tribute King" and 3,000 rolls of multicoloured silk in 649 and granted the Tibetan king's request for materials and infrastructure for the creation of paper and other writing equipment.[NEWLINE][NEWLINE]Songtsän Gampo is traditionally credited with being the first to bring Buddhism to the Tibetan people. He is also said to have built many Buddhist temples, including the Jokhang in Lhasa, the city in which he is credited in one tradition with founding and establishing as his capital, and Changzhug in Nêdong. During his reign, the translation of Buddhist texts from Sanskrit into Tibetan began. Songtsän Gampo is considered to be the first of the three Dharma Kings (chosgyal) — Songtsän Gampo, Trisong Detsen, and Ralpacan — who established Buddhism in Tibet.[NEWLINE][NEWLINE]Songtsän Gampo was adept at diplomacy as well as on the field of battle. The king's minister, Myang Mang-po-rje, with the aid of troops from neighbouring Zhang Zhung, defeated the Sumpa people in north-eastern Tibet circa 627. Six years later, under unclear circumstances, Myang Mang-po-rje was accused of treason and executed. Minister Mgar-srong-rtsan succeeded him.[NEWLINE][NEWLINE]There is some confusion as to whether Central Tibet conquered Zhang Zhung during the reign of Songtsän Gampo or in the reign of Trisong Detsän (r. 755 until 797 or 804 CE). The records of the Tang Annals do, however, seem to place these events clearly in the reign of Songtsän Gampo, for they say that in 634, Yangtong (Zhang Zhung) and various Qiang tribes "altogether submitted to him." Following this, he united with the country of Yangtong to defeat the 'Azha, or Tuyuhun, and then conquered two more tribes of Qiang before threatening Songzhou with an army of more than 200,000 men. He then sent an envoy with gifts of gold and silk to the Chinese emperor to ask for a Chinese princess in marriage and, when refused, attacked Songzhou. According to the Tang annals, he finally retreated and apologised, and, later, the emperor granted his request, but the histories written in Tibet all say that the Tibetan army defeated the Chinese and that the Tang emperor delivered a bride under threat of force. Either way, peace with China would last until after Gampo's death.[NEWLINE][NEWLINE]Early Tibetan accounts say that the Tibetan king and the king of Zhang Zhung had married each other's sisters in a political alliance. However, the Tibetan wife of the king of the Zhang Zhung complained of poor treatment by the king's principal wife. War ensued, and, through the treachery of the Tibetan princess, "King Ligmikya of Zhangzhung, while on his way to Sum-ba (Amdo province) was ambushed and killed by King Srongtsen Gampo's soldiers. As a consequence, The Zhangzhung kingdom was annexed to Bod [Central Tibet].[NEWLINE][NEWLINE]He next attacked and defeated the Dangxian, or "Western Xia" people (who later formed the Tangut state in 942 CE), the Bailan, and other Qiang tribes. The Bailan people were bounded on the east by the Tanguts and on the west by the Domi. They had been subject to the Chinese since 624. Circa 639, after Songtsän Gampo had a dispute with his younger brother Tsänsong; the younger brother was burnt to death by his own minister Khäsreg.[NEWLINE][NEWLINE]The Jiu Tangshu records that when the king of Nepal died, an uncle usurped the throne. The Tibetans gave him refuge and reestablished him on his throne; Nepal became a vassal of Tibet. [NEWLINE][NEWLINE]In 649, the King of Xihai Jun was conferred upon Songtsen Gampo by Tang Gaozong, the emperor of the Tang Dynasty. According to the Tibetan Annals, Songtsän Gampo must have died in 649, and, in 650, the Tang emperor sent an envoy with a "letter of mourning and condolences". His tomb is in the Chongyas Valley near Yalung.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_TIBET_LS_MOD_TEXT">
+			<Text>Ageless Songtsän Gampo, the founder and first Emperor of Tibet, eternal glory surrounds your mayesty and court! You expanded Tibet's power beyond Lhasa and the Yarlung Valley: conquering  Zhang Zhung, defeating the Dangxian people, and threatening China in the frontier province of Songzhou. The Chinese emperor, in respect for your great kingship and achievements, let you marry one of his pricesses. However, your accomplishment were not limited to war! It is traditionally believed that your highness introduced Buddhism to Tibet, changing the region and people forever. The Jokhang Temple built on your orders has successfully passed the test of time, standing proud to this day. During your reign, the first Tibetan literacy works, translations, court records and even a constitution were created. This was only possible due to your decision to devise a script for the Tibetan people language. You opened the gates of Tibet to the knowledge and wisdom of the world! You introduced: silk and wine production, paper and ink manufacturies,  laws and administrative institutions, and a study of astrological systems. It was only long after your death that your ferocious soldiers were defeated by those destroyers of empires, the Mongols.[NEWLINE][NEWLINE]Great Emperor, the wheel turns once again! Your diplomatic skills, your will to power and determination are legend! Will you spread the tenets of Buddhism in this new world? Can you extend your boundaries by marriage and sword? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_FIRSTGREETING_1">
+			<Text>Ah, another adventurer in pursuit of Shangri-La? Yes, there is such a place... but you must be tired! Please, let me show you to the palace of Songtsän Gampo. Hands off the Princesses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_FIRSTGREETING_2">
+			<Text>Welcome, welcome, brave adventurer! Songtsän Gampo greets you to the paradise of Tibet. Tell me, have you any eligible daughters of the correct age? I'm starting something of a collection.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DEFEATED_1">
+			<Text>The wheel turns again...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DEFEATED_2">
+			<Text>Heh... I will not stay dead for long... Soon I shall reincarnate... and the war... shall... go on...</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_REPEAT_TOO_MUCH_1">
+			<Text>How am I meant to find inner peace when you keep pestering me?</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_GREETING_HOSTILE_HELLO_1">
+			<Text>Why have you disturbed my meditation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_GREETING_POLITE_HELLO_1">
+			<Text>Welcome back to Tibet, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>As you gather more and more towards yourself you only increase the pain you shall endure when you lose it. No... When I take it from you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>No peace can come from gathering more possessions, only pain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DENOUNCE_1">
+			<Text>Your spirit is not mature enough to be called leader. Come back in another life.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DENOUNCE_2">
+			<Text>This is karma.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Holding on to anger is like grasping a hot coal with the intent of throwing it at someone else; you are the one who gets burned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path. You blame me for your troubles because you cannot face yourself.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_COOP_WAR_REQUEST_1">
+			<Text>Change comes from within, but regieme change comes from without. {1_PlayerName:textkey} must be deposed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} is not fit to lead a nation of people. Their subjects would have a better chance at enlightenment under our banners, do you not think?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_COOP_WAR_TIME_1">
+			<Text>The wheel turns for {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DEC_FRIENDSHIP_1">
+			<Text>A thousand candles may be lit from a single candle, and the life of that candle will not be shortened. Happiness is never diminished by being shared.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DEC_FRIENDSHIP_2">
+			<Text>Normally I would ask for a Princess, but I think our friendship needs no adornment more than a simple declaration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention thay you have a large number of Units near my borders. Let them be on their way. No good can come from resent between us, I hope you understand that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_RETURNED_CIVILIAN_1">
+			<Text>For once, for these men, salvation has come from without. You have done an astonishing thing today, may it long be remembered.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_RETURNED_CIVILIAN_2">
+			<Text>Your actions mark you out as a great soul and greater leader.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_1">
+			<Text>You live as if you will never die, but know this: you will die never having lived.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_2">
+			<Text>I don't think anything will repair our relationship. Not a hundred of your purest Princesses. Not a thousand. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_3">
+			<Text>Always remember that you are unique. Just like everyone else.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_4">
+			<Text>How old are your daughters again?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_MILITARY_1">
+			<Text>Hundreds of thousands flock to protect their Emperor at a moment's notice. Tell me, do you wait on a time when something similar will happen for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_UNHAPPINESS_1">
+			<Text>To be truely happy, you must let go. Perhaps you can explain this to your miserable subjects when you are ceeding your lands to me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_CITIES_1">
+			<Text>I could stack all the building in all your cities on top of each other and barely have made a kumbum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_INSULT_CULTURE_1">
+			<Text>Why don't we be friends? With a culture as puny as yours, I'm sure we're both going to end up with the same ideology anyway!</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DONT_SETTLE_NO_1">
+			<Text>Actually my people inhabited these lands in a past life. So technically I should be reprimanding you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DONT_SETTLE_YES_1">
+			<Text>If this is the path to peace, so be it.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_LUXURY_TRADE_1">
+			<Text>Not even Shangri-La contains these pleasures.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_RESPONSE_REQUEST_1">
+			<Text>Help me now and you shall be rewarded by Karma.</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_ATTACKED_HOSTILE_1">
+			<Text>So you opted for early reincarnation. Fair enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_ATTACKED_EXCITED_1">
+			<Text>It is the beginning of the end for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_ATTACKED_SAD_1">
+			<Text>You have disturbed my inner peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_ATTACKED_BETRAYED_1">
+			<Text>An insincere and evil friend is more to be feared than a wild beast, a wild beast may wound your body, but an evil friend will wound your mind. How true this is.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_GENERIC_1">
+			<Text>The wheel turns for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_LAND_1">
+			<Text>You must learn to let go... of your land.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_WORLD_CONQUEST_1">
+			<Text>Under my rule the world will ascend Samsara, and every soul will find enlightenment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_WORLD_CONQUEST_2">
+			<Text>I have come to realise it is my destiny to rule this world. I walk a higher path.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_OPPORTUNITY_1">
+			<Text>This is karma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_DESPERATE_1">
+			<Text>In the heat of battle, I will ascend this mortal plane, and your great Empire will crumble beneath the glory of Nirvana.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_BETRAYAL_1">
+			<Text>I'm going to be reincarnated as a beetle for this, but there we are. I couldn't resist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_DOW_BETRAYAL_2">
+			<Text>You should have married me to one of your daughters while you had the chance.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_TOO_SOON_NO_PEACE_1">
+			<Text>Do not disturb my meditation.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_BAD_1">
+			<Text>Perhaps I'll have more luck with your successor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TIBET_LS_MOD_GAMPO_GOOD_1">
+			<Text>I am pleased that you have found wisdom.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_TIBET_TRAIT_SHORT">
+			<Text>Shangri-La</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TIBET_TRAIT">
+			<Text>Generating [ICON_PEACE] Faith contributes to resisting foreign [ICON_TOURISM] Tourism; during a [ICON_GOLDEN_AGE] Golden Age this improves to additional [ICON_CULTURE] Culture. Religious, Reconnaissance, and Diplomatic Units can pass Mountains.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_PROMOTION_LS_TIBET_MOUNTAIN">
+			<Text>Sherpa Guides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_TIBET_MOUNTAIN_HELP">
+			<Text>Can pass Mountains</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_RTAKHRAB_KNIGHT">
+			<Text>Rtakhrab Rider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_RTAKHRAB_KNIGHT">
+			<Text>+33% Combat Strength vs Archer Units. +1 [ICON_STRENGTH] Combat Strength per level.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TIBET_VS_ARCHER_HELP">
+			<Text>+33% Combat Strength vs Archer Units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_TIBET_VS_ARCHER">
+			<Text>Rtakhrab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RTAKHRAB_KNIGHT_TEXT">
+			<Text>Tibetan nobles could afford to dress 'go chan gyon pa', in full body armour with steel helmets, as well as providing their chargers with the finest horse armour (rta khrab). In the days of the Yarlung kings, most of the Imperial army would consist of warriors such as these. These men acted as elite bodyguards for military leaders and Gompa administrators (geluns).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RTAKHRAB_KNIGHT_STRATEGY">
+			<Text>Unlike the Horseman, which it replaces, the Rtakhrab Rider gains a bonus against Archery Units. This makes it both better at its key role of flanking ranged units in large battles, and also gives it more staying power in the midst of battle against enemy supporting fire.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_GHANTA_LS_SHRINE">
+			<Text>Kumbum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GHANTA_LS_SHRINE_HELP">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GHANTA_LS_SHRINE_TEXT">
+			<Text>A Kumbum is a sort of Buddhist chapel, characterised by being many stories high. The Kumbum or great gomang (many-doored) chorten at Gyantse is a three-dimensional mandala, meant to portray the Buddhist cosmos. The Kumbum, like other mandalas, which are portrayed by a circle within a square, enables the devotee to take part in the Buddhist perception of the universe and can depict one's potential as they move through it. Mandalas are meant to aid an individual on the path to enlightenment. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GHANTA_LS_SHRINE_STRATEGY">
+			<Text>Unlike the Shrine, which it replaces, the Kumbum generates [ICON_GOLDEN_AGE] Golden Age points. This bonus scales well with Empire size, encouraging Tibet to go wide and make the most of their Unique Ability.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/26/2012 8:59:56 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_HAREM</Type>
+			<BuildingClass>BUILDINGCLASS_GARDEN</BuildingClass>
+			<Cost>300</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_THEOLOGY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_HAREM_DESC</Description>
+			<Civilopedia>TXT_KEY_BUILDINGS_HAREM_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_HAREM_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_HAREM_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_GARDEN</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<GreatPeopleRateModifier>25</GreatPeopleRateModifier>
+			<HurryCostModifier>25</HurryCostModifier>
+			<SpecialistType>SPECIALIST_ARTIST</SpecialistType>
+			<SpecialistCount>1</SpecialistCount>
+			<IconAtlas>FA_UB_ATLAS</IconAtlas>
+			<PortraitIndex>19</PortraitIndex>
+		</Row>
+	</Buildings>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>5</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Building_ClassesNeededInCity>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<BuildingClassType>BUILDINGCLASS_AQUEDUCT</BuildingClassType>
+		</Row>
+	</Building_ClassesNeededInCity>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_ANCIENT_LIBYA_MOD</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARDEN</BuildingClassType>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<ResourceType>RESOURCE_CITRUS</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<ResourceType>RESOURCE_COCOA</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<ResourceType>RESOURCE_COCOA</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_HAREM</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_HAREM_DESC">
+			<Text>Harem</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDINGS_HAREM_TEXT">
+			<Text>Purdah, the custom of secluding and veiling women, is a traditional feature of Libyan cultural life. While groups of veiled women are still found in markets in the company of kinsmen, they are infrequent visitors to mosques. However, this practice was well established in both the near and far east for over a thousand years before the advent of Islam. While the modern term is synonymous with oppression, the separate and often revered role of women in Berber society well predates Arab conquest. Significantly, women are the artists in Berber culture, with weaving being particularly respected.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_HAREM_STRATEGY">
+			<Text>The Harem further accentuates the Garamantese bias for Desert by improving the bonus of the Oasis. Furthermore it contains an [ICON_GREAT_ARTIST] Artist slot, alleviating the problem caused by having workable tiles taken up by useless Desert.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_HAREM_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation in this City.[NEWLINE]Nearby Oases: +3 [ICON_GOLD] Gold and +1 [ICON_CULTURE] Culture.[NEWLINE]Nearby [ICON_RES_CITRUS] Citrus: +1 [ICON_FOOD] Food, +1 [ICON_GOLD] Gold.[NEWLINE]Nearby [ICON_RES_COCOA] Cocoa: +1 [ICON_FOOD] Food, +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+			
+	</Language_en_US>
+</GameData>

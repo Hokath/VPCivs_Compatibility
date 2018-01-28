@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_3UC_BULLRING">
+			<Text>Dancing Ground</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_BULLRING_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production of Diplomatic Units. Grants Promotion [COLOR_POSITIVE_TEXT]Royal Signet[ENDCOLOR] for Diplomatic Units in the city in which it is built.[NEWLINE][NEWLINE]+1 [ICON_GOLD] Gold and [ICON_TOURISM] Tourism in City for every City-State Friend, and +2 [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture for every Ally.[NEWLINE][NEWLINE]A source of [ICON_RES_COW] Cattle appears near the City.[NEWLINE]Nearby [ICON_RES_COW] Cattle: +1 [ICON_CULTURE] Culture, +2 [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_BULLRING_STRATEGY">
+			<Text>The Dancing Ground supports City growth by spawning a bonus resource, which of course is also subject to the unique ability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_BULLRING_TEXT">
+			<Text>Pasiphae, wife of King Minos of Crete, had several children. The eldest of these, Androgeos, set sail for Athens to take part in the Panathenaic Games, which were held there every four years. Being strong and skilful, he did very well, winning some events outright. He soon became a crowd favourite, much to the resentment of the Pallantides who assassinated him, incurring the wrath of Minos. When King Minos had heard of what befell his son, he ordered the Cretan fleet to set sail for Athens. Minos asked Aegeus for his son's assassins, and if they were to be handed to him, the town would be spared. However, not knowing who the assassins were, King Aegeus surrendered the whole town to Minos' mercy. His retribution was that, at the end of every Great Year, which occurred after every seven cycles on the solar calendar, the seven most courageous youths and the seven most beautiful maidens were to board a boat and be sent as tribute to Crete, never to be seen again. Further mythology holds that these tributes were fed to the Minotaur, the result of a curse sent to Pasiphae for Minos's defiance of Poseidon.[NEWLINE][NEWLINE]More likely, these myths derive from a major festive celebration, exemplified in the famous athletic Minoan bull dance frescoes of Knossos and inscribed in miniature seal stones. There is significant debate among scholars as to whether athletes actually vaulted over bulls. Sir Arthur Evans argued that the Bull-Leaping Fresco depicts acrobats literally seizing the bull by the horns and leaping over the creature’s back. Others have asserted that the fresco more likely shows young Minoan people attempting to ride the bull. In any case, this ritual seems perculiar to the Minoan culture. The extent to which their religious beliefs differed from the Mycenae who followed them is still an open question.</Text>
+		</Row>
+	</Language_en_US>
+
+</GameData>

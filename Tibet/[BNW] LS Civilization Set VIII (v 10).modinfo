@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="0474fd37-a41e-43b9-88be-81da4b112d52" version="10">
+  <Properties>
+    <Name>[BNW] Tibet</Name>
+    <Teaser>Adds the Tibetan empire.</Teaser>
+    <Description>Tested on vox populi</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="FD1DD87707274D75B1DFE13849451DC2" import="1">BaseCamp/NaturalWonderAtlas128.dds</File>
+    <File md5="47EDE0B526973335CF87C6E90E9E7708" import="1">BaseCamp/NaturalWonderAtlas256.dds</File>
+    <File md5="9063FE1F04E3DB69FADB0E1280FDAC90" import="1">BaseCamp/NaturalWonderAtlas45.dds</File>
+    <File md5="8BFCDB051CF351D21299DEFF7D2B343D" import="1">BaseCamp/NaturalWonderAtlas64.dds</File>
+    <File md5="8613641806D9AB8ABA1194A8F782CB87" import="1">BaseCamp/NaturalWonderAtlas80.dds</File>
+    <File md5="1B97E41D12B205510985F30B182E24E5" import="0">BaseCamp/WNGameData.xml</File>
+    <File md5="9D47386EF6E2B522208DA4A8767245FF" import="1">America2/3uc_ranch128.dds</File>
+    <File md5="349B2F47A593B7A23340A39312179A39" import="1">America2/3uc_ranch256.dds</File>
+    <File md5="97AF7531EBC0C98F0BAF9CAD6ECDEC68" import="1">America2/3uc_ranch45.dds</File>
+    <File md5="C60F5FA2B70A805869E6EF15BEAF382E" import="1">America2/3uc_ranch64.dds</File>
+    <File md5="0BD7FFD3F89410CD887A69B298F85B68" import="0">America2/3uc_Ranch.xml</File>
+    <File md5="089E28A86BE06AEDE89B6A772F161BF4" import="0">America2/4UC_AMERICA.sql</File>
+    <File md5="98576691C3F078010768E890506ECDCA" import="1">Lasts/AlphaLS8Atlas24.dds</File>
+    <File md5="22CDE73944078165629E28BB5F89B8DF" import="1">Lasts/AlphaLS8Atlas32.dds</File>
+    <File md5="6CF20B6A8575053ACBDCBADD8247FDB0" import="1">Lasts/AlphaLS8Atlas48.dds</File>
+    <File md5="4A1997ED462CAE84BF0E4ED587CF83D3" import="1">Lasts/AlphaLS8Atlas64.dds</File>
+    <File md5="FD8B0A4F6E5249A3B6E9BE4FFC411CDB" import="1">Lasts/BuildingLS8Atlas128.dds</File>
+    <File md5="91D64FE8045D3E1803C145AA24FE6CFE" import="1">Lasts/BuildingLS8Atlas256.dds</File>
+    <File md5="D5FF012E4D40C3224DFF0BF8E2CF6D90" import="1">Lasts/BuildingLS8Atlas45.dds</File>
+    <File md5="3972E027F31F585DE869B9D44E94EA2D" import="1">Lasts/BuildingLS8Atlas64.dds</File>
+    <File md5="FD8B0A4F6E5249A3B6E9BE4FFC411CDB" import="1">Lasts/BuildingLS4Atlas128.dds</File>
+    <File md5="91D64FE8045D3E1803C145AA24FE6CFE" import="1">Lasts/BuildingLS4Atlas256.dds</File>
+    <File md5="D5FF012E4D40C3224DFF0BF8E2CF6D90" import="1">Lasts/BuildingLS4Atlas45.dds</File>
+    <File md5="3972E027F31F585DE869B9D44E94EA2D" import="1">Lasts/BuildingLS4Atlas64.dds</File>
+    <File md5="05A9548D23460835A2236A2C2E700B71" import="1">Lasts/CivLS8Atlas128.dds</File>
+    <File md5="38CA53C0A0B10766FDFF34095237B42A" import="1">Lasts/CivLS8Atlas256.dds</File>
+    <File md5="C69778818F68B3A247519670FDE2298D" import="1">Lasts/CivLS8Atlas32.dds</File>
+    <File md5="723A18D08AB6DF9FDD3CB76E92690353" import="1">Lasts/CivLS8Atlas45.dds</File>
+    <File md5="6AB1E4E79488F821F41597B0BD7A7DC1" import="1">Lasts/CivLS8Atlas64.dds</File>
+    <File md5="C5B1E1CC56060A1F8B86D75199213DE5" import="1">Lasts/CivLS8Atlas80.dds</File>
+    <File md5="697703E0EF254D378A05A622070AA732" import="1">Lasts/LeaderLS8Atlas128.dds</File>
+    <File md5="F96DC517F48641A4440142A964BB2C5D" import="1">Lasts/LeaderLS8Atlas256.dds</File>
+    <File md5="9AB80777ED0FE4C94750BC14BEDACA48" import="1">Lasts/LeaderLS8Atlas64.dds</File>
+    <File md5="4212465ECA90F015943D5EA8BD79F65C" import="0">Lasts/LS8 Atlas Mod.xml</File>
+    <File md5="BAFFED9563FA56EAC8AD2046D950E11B" import="1">Lasts/UnitLS8Atlas128.dds</File>
+    <File md5="442B82E16B0FE582F4EB83949023BCFF" import="1">Lasts/UnitLS8Atlas256.dds</File>
+    <File md5="6D8FD6263BDBA695E125F16492643196" import="1">Lasts/UnitLS8Atlas45.dds</File>
+    <File md5="1A7D8C226C20B8614AFC18A05C990611" import="1">Lasts/UnitLS8Atlas64.dds</File>
+    <File md5="B1FBAE6E31CA934FA4C4F2797DB06FBF" import="1">Lasts/UnitLS8Atlas80.dds</File>
+    <File md5="42ED51A3FCF9F3EC50B83461EFAC46F3" import="0">TibetanEmpire/Diplomacy.sql</File>
+    <File md5="8DD15A07F1CF50D1AA9C708FBA0092A5" import="1">TibetanEmpire/DiploTibetLSMod.dds</File>
+    <File md5="F00C1FC5E6CB0FABEEC6A8247224BF90" import="1">TibetanEmpire/DoMTibetLSMod.dds</File>
+    <File md5="C4859739EC3A4E7F9C927C901B7EEB6F" import="1">TibetanEmpire/MapTibetLSMod.dds</File>
+    <File md5="342D068F87FB3D2A912314482A2BB9FF" import="1">TibetanEmpire/Model/Knight_China.blend</File>
+    <File md5="DCEAD473E26D32B903E73771AE1F8D56" import="1">TibetanEmpire/Model/Knight_China.dds</File>
+    <File md5="8F1623F7700F96F5F1F63445F860E3B8" import="1">TibetanEmpire/Model/Knight_China.fxsxml</File>
+    <File md5="76093248416349CC632C122F69D1AAC2" import="1">TibetanEmpire/Model/Knight_China.gr2</File>
+    <File md5="0FF92525112631CDA5AAB671E6761B02" import="1">TibetanEmpire/Model/Knight_China_gloss.dds</File>
+    <File md5="754881107C02349672A75A6BC2A21A70" import="1">TibetanEmpire/Model/Knight_China_Horse.dds</File>
+    <File md5="37E4F7526EDD9ED60400FB6BF5CF47C6" import="1">TibetanEmpire/Model/Knight_China_Horse_gloss.dds</File>
+    <File md5="814E2835810BCBC7E8442C7C9F7DE3FE" import="0">TibetanEmpire/Model/TibetKnightArtDefine.sql</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">TibetanEmpire/SaveUtils.lua</File>
+    <File md5="A5A7BFE7AB7AEC94CF6F6BB800D8C812" import="1">TibetanEmpire/SV_TibetLS.dds</File>
+    <File md5="18919F9BF6C8C823AA07EDA454DFCF67" import="0">TibetanEmpire/Tibet Building Mod.xml</File>
+    <File md5="9CAA607BE34662BE54F8CDEB2A9C17C2" import="0">TibetanEmpire/Tibet Civ Mod.xml</File>
+    <File md5="C95082CE916F259D1100B1E5402848AE" import="0">TibetanEmpire/Tibet Game Text Mod.xml</File>
+    <File md5="89A692ACE34E43DCFD14ADF5C0266E4F" import="0">TibetanEmpire/Tibet Leader Mod.xml</File>
+    <File md5="9008BD22E245899D53B70E9836D7B429" import="0">TibetanEmpire/Tibet Units Mod.xml</File>
+    <File md5="2A8BF8C85178A3A24396F36BAC2F1DA9" import="1">TibetanEmpire/TibetUnitAlphaAtlas.dds</File>
+    <File md5="7F9BB90FEFE603A626B20A33688DBAAC" import="1">TibetanEmpire/Tibet_Leader_Scene_LS_Mod.xml</File>
+    <File md5="E33080F470F3AF6F4CEECF02D2436107" import="1">TibetanEmpire/TibetCivRelated.lua</File>
+    <File md5="3CDAD835837BE1BC7C9DB3B1C56E5405" import="0">TibetanEmpire/TibetMod.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>BaseCamp/WNGameData.xml</UpdateDatabase>
+      <UpdateDatabase>America2/3uc_Ranch.xml</UpdateDatabase>
+      <UpdateDatabase>America2/4UC_AMERICA.sql</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Tibet Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Tibet Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Tibet Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Tibet Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Tibet Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Lasts/LS8 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Model/TibetKnightArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>TibetanEmpire/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="TibetanEmpire/TibetMod.lua">
+      <Name>Tibet</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

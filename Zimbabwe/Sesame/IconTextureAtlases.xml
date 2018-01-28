@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/25/2013 4:11:26 PM -->
+
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>REP_RESOURCE_ATLAS_CROPS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>CropsIconAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>REP_RESOURCE_ATLAS_CROPS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>CropsIconAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>REP_RESOURCE_ATLAS_CROPS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>CropsIconAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>REP_RESOURCE_ATLAS_CROPS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>CropsIconAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

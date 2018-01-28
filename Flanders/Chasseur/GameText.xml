@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/20/2013 3:43:32 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_MORI_CHASSEUR">
+			<Text>Chasseur Ardennais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MORI_CHASSEUR_TEXT">
+			<Text>Chasseur (French for "hunter") is the designation given to certain regiments of Belgian light infantry to denote troops trained for rapid action. The origin of the Chasseurs Ardennais starts with a concept conceived in 1914 and pushed further in 1928: the creation of a corps on the east border of Belgium, near Germany, in order to protect against a German attack. On 10 March 1933, King Albert I changed the unit's name from 10e de ligne to Régiment des Chasseurs Ardennais. Subsequently these soldiers, stationed in Arlon, Belgium would wear the wild boar (emblem of the Ardennes) on their green berets. World War II the Chasseurs Ardennais took part in heavy fighting after Belgium was invaded on 10 May 1940; the Germans noted the fierce resistance of the Belgians and the Chasseurs Ardennais were no exception. In one engagement a 47mm antitank gun destroyed or disabled five German tanks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORI_CHASSEUR_HELP">
+			<Text>A unique Infantry for Luxembourg that is slightly stronger and gains an additional [ICON_MOVES] movement. Heals every turn when fighting in a war involving a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MORI_CHASSEUR_STRATEGY">
+			<Text>The Chasseur Ardennais is the unique unit for Luxembourg, replacing the Great War Infantry. The Chasseur Ardennais gains an additional [ICON_MOVES] Movement and, when fighting in a war alongside a civilization with whom you have a declaration of friendship, the Chasseur heals every turn, even when performing an action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORI_CHASSEUR">
+			<Text>Allied Forces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORI_CHASSEUR_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] damage every turn whilst you are at war alongside a friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORI_CHASSEUR_MARCH">
+			<Text>Allied Forces</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MORI_CHASSEUR_MARCH_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Heals[ENDCOLOR] damage every turn whilst you are at war alongside a friend.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

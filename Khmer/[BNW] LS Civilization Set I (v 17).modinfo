@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="4481702e-758e-4fd3-9760-308f8efafa74" version="17">
+  <Properties>
+    <Name>[BNW] Khmer</Name>
+    <Teaser>Adds the Khmer civilizations</Teaser>
+    <Description>Mod is created for and tested on vox populi</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4B376A5B2465E539918F7F086E01B13A" import="1">Art/UB-FontIcons.dds</File>
+    <File md5="80FCA7A8933F9B199FE5DC3794056C5F" import="1">Art/UB-FontIcons.ggxml</File>
+    <File md5="3543ADBF2A7184359545BC379918B542" import="1">Art/UBAtlas128_khmer.dds</File>
+    <File md5="491A1874F6B569DED1978E1A8317F098" import="1">Art/UBAtlas256_khmer.dds</File>
+    <File md5="25B29BAAE936443286783319502315D0" import="1">Art/UBAtlas45_khmer.dds</File>
+    <File md5="59404569049E7156DD4042EA6B05CB9F" import="1">Art/UBAtlas64_khmer.dds</File>
+    <File md5="7C7BD27ED5936333EC088EDF2F8FED5A" import="1">Art/UBAtlas80_khmer.dds</File>
+    <File md5="1CA679D30208B90330AF40A5A706EB86" import="0">Siam2/4UC_siamelephant.sql</File>
+    <File md5="3C9214C7530FBFF5469B204ABD691194" import="1">Siam2/4uc_siamelephant128.dds</File>
+    <File md5="05A7538D3A72F148E4F41A38BF810B26" import="1">Siam2/4uc_siamelephant256.dds</File>
+    <File md5="A33EA892C1F3292F1B2DB7E4ABF40D6F" import="1">Siam2/4uc_siamelephant45.dds</File>
+    <File md5="9AD3C35B3444B7AC3D0D6EB58AC7A30C" import="1">Siam2/4uc_siamelephant64.dds</File>
+    <File md5="5A27E46DA6D7C57D7B87D830E1233978" import="1">Siam2/4uc_siamelephant80.dds</File>
+    <File md5="B1CEF5351ED28207752E7A6637A1FCF7" import="1">Siam2/fx_triggers_khmer_elephant.ftsxml</File>
+    <File md5="B0450AD2F75717FEF0D014EE41743907" import="1">Siam2/Icon4Phant32.dds</File>
+    <File md5="113424D64C668BDDCCC47EC64036AEE3" import="1">Siam2/Icon4PhantSV.dds</File>
+    <File md5="F5E3F1F56C80222114EFA011D0A45DE9" import="1">Siam2/KhmerCar_diff.dds</File>
+    <File md5="5F9FFAD0AD04B20BC6E646CD3F0C1808" import="1">Siam2/KhmerCar_sref.dds</File>
+    <File md5="F8AB84FBD3AE675E1488417F687E72FB" import="1">Siam2/KhmerElephant_diff.dds</File>
+    <File md5="B354552E3A3F7B09218182AACAA92673" import="1">Siam2/KhmerElephant_sref.dds</File>
+    <File md5="A8CC5F6909842DC842DF0CEC2F651B6C" import="1">Siam2/KhmerRider_diff.dds</File>
+    <File md5="FDB274899B240C4AA07C831A98337984" import="1">Siam2/KhmerRider_sref.dds</File>
+    <File md5="318EBD501455651CF27D30AD319CFBC1" import="1">Siam2/khmer_elephant.fxsxml</File>
+    <File md5="6F03D9B9BE33CB35F0C06EF3F57E3852" import="1">Siam2/khmer_elephant.gr2</File>
+    <File md5="F9D19C27E7CFE2DAF0FDE56182CF525D" import="0">Siam2/4uc_SiamElephant.xml</File>
+    <File md5="07D8FD4F6EE844304C7C9B3B869049AA" import="1">Art/DJSHKhmer Resource Art/Coconut/fonticon-coconut.dds</File>
+    <File md5="CDFAF4C58280F28A30ADDF1B3B40D00D" import="1">Art/DJSHKhmer Resource Art/Coconut/coconut-fonticons.ggxml</File>
+    <File md5="A649DB01A67A9FBDDC5BE551A8D36CC3" import="1">Art/DJSHKhmer Resource Art/Coconut/SV_Coconut.dds</File>
+    <File md5="B8C11FD93A183017DFDEA24AEFFF0E59" import="1">Art/DJSHKhmer Resource Art/Mango/fonticon-mango.dds</File>
+    <File md5="D0B23DB5CB527542FCDBFFC065FBA5A5" import="1">Art/DJSHKhmer Resource Art/Mango/mango-fonticons.ggxml</File>
+    <File md5="8A034813C05CA7E9C14B48345838F347" import="1">Art/DJSHKhmer Resource Art/Mango/SV_Mango.dds</File>
+    <File md5="AA3D677F8F9FB37FC5FA307C2FF80AF1" import="1">Art/DJSHKhmer Resource Art/Rice/fonticon-rice.dds</File>
+    <File md5="B5FD80DAD7B74F6204FB481BB1F9E6F0" import="1">Art/DJSHKhmer Resource Art/Rice/SV_Rice.dds</File>
+    <File md5="89C96CAD07AED21E2AB19C74DDC7B8B6" import="1">Art/DJSHKhmer Resource Art/Coconut/coconuttrees.fxsxml</File>
+    <File md5="462DA6F51B4DD4CBB22095F4D8B8C6B5" import="1">Art/DJSHKhmer Resource Art/Coconut/coconuttrees.gr2</File>
+    <File md5="5E9C57DC2F40AA16E8C66F3C4FF3A951" import="1">Art/DJSHKhmer Resource Art/Coconut/coconut_trees_diff.dds</File>
+    <File md5="A73661E173D2860F01F885D936C393D3" import="1">Art/DJSHKhmer Resource Art/Coconut/coconut_trees_pill_diff.dds</File>
+    <File md5="CB23F3F40A29D0083DC43ECE8BF6A214" import="1">Art/DJSHKhmer Resource Art/Coconut/coconut_trees_sref.dds</File>
+    <File md5="A3A58FB23B86DB0539B7506B4604130B" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees.fxsxml</File>
+    <File md5="8B079B153C488331A48E5BFCC5EAFEC9" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees.gr2</File>
+    <File md5="FBA4AB6F4C19F2E2B904C15462634142" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees_hb.fxsxml</File>
+    <File md5="8C122EEA78E1EE7F364606DFB83C22A1" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees_hb.gr2</File>
+    <File md5="281DBADAE59764BB8A09367F619085A6" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees_pil.fxsxml</File>
+    <File md5="EE6C0FDFEF0101200B18C930854DF9D1" import="1">Art/DJSHKhmer Resource Art/Coconut/plantation_ind_coconuttrees_pil.gr2</File>
+    <File md5="D6973D5228F96F03BB33DCF72C40E9AB" import="1">Art/DJSHKhmer Resource Art/Mango/mangotrees.fxsxml</File>
+    <File md5="95B5DE6304AE2AA318B94D102E336EE2" import="1">Art/DJSHKhmer Resource Art/Mango/mangotrees.gr2</File>
+    <File md5="CBE04B82FB7A8CFA37BC3A3304213BC7" import="1">Art/DJSHKhmer Resource Art/Mango/mango_trees_diff.dds</File>
+    <File md5="A8B39112D4C8CAAF2CEBF63FC3345C92" import="1">Art/DJSHKhmer Resource Art/Mango/mango_trees_pill_diff.dds</File>
+    <File md5="B4A07FB1BC62BA869922BEAABE7851CD" import="1">Art/DJSHKhmer Resource Art/Mango/mango_trees_sref.dds</File>
+    <File md5="69236EE43F4A22812872D3B27BB189C3" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees.fxsxml</File>
+    <File md5="BB11F0BD3E69EDFC2825CCCCFE1C23A5" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees.gr2</File>
+    <File md5="733DE151102D483E267DCAA3335793C3" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees_hb.fxsxml</File>
+    <File md5="7FA6155D875B24C8112798740A62BA15" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees_hb.gr2</File>
+    <File md5="1590273664C52CD9317A766A9A9DBD20" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees_pil.fxsxml</File>
+    <File md5="8CBE53E4E1EAD90303141B06C30B8961" import="1">Art/DJSHKhmer Resource Art/Mango/plantation_ind_mangotrees_pil.gr2</File>
+    <File md5="916CC647B01F98C6E3BE69DF7FA79092" import="1">Art/DJSHKhmer Resource Art/Rice/hb_plantation_ind_rice.fxsxml</File>
+    <File md5="D533623D8126CFFE630EB0EE579872EA" import="1">Art/DJSHKhmer Resource Art/Rice/hb_plantation_ind_rice.gr2</File>
+    <File md5="29F496D986623B30FBBF8DF67AA44C1F" import="1">Art/DJSHKhmer Resource Art/Rice/plantation_ind_rice.fxsxml</File>
+    <File md5="67318D1BE879EA7C72ED3CBDDA8D1BE1" import="1">Art/DJSHKhmer Resource Art/Rice/plantation_ind_rice.gr2</File>
+    <File md5="3FB506DE17F85017767F557F423AF630" import="1">Art/DJSHKhmer Resource Art/Rice/pl_plantation_ind_rice.fxsxml</File>
+    <File md5="82E301CE4CD86462D3DCD0F245F515F6" import="1">Art/DJSHKhmer Resource Art/Rice/pl_plantation_ind_rice.gr2</File>
+    <File md5="A4FFF14E10DDE0FA1B255D45FCF46070" import="1">Art/DJSHKhmer Resource Art/Rice/pl_resource_rice_diff.dds</File>
+    <File md5="2BD2C47E619D5A0785BEDE3F95ACA7AD" import="1">Art/DJSHKhmer Resource Art/Rice/resource_rice.fxsxml</File>
+    <File md5="EA252A2E8DD0BE278CC2815B979C0163" import="1">Art/DJSHKhmer Resource Art/Rice/resource_rice.gr2</File>
+    <File md5="76AEAE4E6EA40EE28F2958860DA60C56" import="1">Art/DJSHKhmer Resource Art/Rice/resource_rice_diff.dds</File>
+    <File md5="004027101A7F9DCE88A58D4A2B87BEF9" import="1">Art/DJSHKhmer Resource Art/Rice/rice-fonticons.ggxml</File>
+    <File md5="1C9967E1C2D3DE5242DF2B14EFD15801" import="1">Art/Khmer_Icons128.dds</File>
+    <File md5="597CC3C795068CFF6CB0BBFB80FA1343" import="1">Art/Khmer_Icons256.dds</File>
+    <File md5="7DFC57F6078FBC3E7E32DDC7AECB0837" import="1">Art/Khmer_Icons32.dds</File>
+    <File md5="5E4DAA4776FF9EB608DC5E7015F6B5CE" import="1">Art/Khmer_Icons45.dds</File>
+    <File md5="9D24D91867B897EB9D8B5C9E5680AA1C" import="1">Art/Khmer_Icons64.dds</File>
+    <File md5="5745231F85A879F6AD4FB9595A0E1527" import="1">Art/Khmer_Icons80.dds</File>
+    <File md5="019E6C76943913C865D5D069C41FEE0F" import="1">Common/AlphaLS1Atlas24.dds</File>
+    <File md5="3296F3E938049788C123662926A1FF4C" import="1">Common/AlphaLS1Atlas32.dds</File>
+    <File md5="2812B9767F3FBE8FBE645DA21969A8E3" import="1">Common/AlphaLS1Atlas48.dds</File>
+    <File md5="63B592F96CB43CDFD651920CB276EEE7" import="1">Common/AlphaLS1Atlas64.dds</File>
+    <File md5="EDFA02A35A9DB8FDAA9639FEC2D98395" import="1">Common/BuildingLS1Atlas128.dds</File>
+    <File md5="505A0CECD42C2D86E70143B7638E0C1A" import="1">Common/BuildingLS1Atlas256.dds</File>
+    <File md5="13A0459A2404CE16AF1029E475EFBB60" import="1">Common/BuildingLS1Atlas45.dds</File>
+    <File md5="A8129402DB27900073C0CDCE9EAE49DB" import="1">Common/BuildingLS1Atlas64.dds</File>
+    <File md5="986CAB971DDC86A5D62986D8AFF0ABB0" import="1">Common/CivLS1Atlas128.dds</File>
+    <File md5="B6BBE25489924A37D1063E7244155A86" import="1">Common/CivLS1Atlas256.dds</File>
+    <File md5="4D2D29105AFD7B21BDFC5CE4B9C0DF3B" import="1">Common/CivLS1Atlas32.dds</File>
+    <File md5="34CD595438AA1802D126C875B48DD312" import="1">Common/CivLS1Atlas45.dds</File>
+    <File md5="44CC3276E41B8F6636C4B040C2232E6F" import="1">Common/CivLS1Atlas64.dds</File>
+    <File md5="90960F4BB9C3DAB2D77630C94A54DD60" import="1">Common/CivLS1Atlas80.dds</File>
+    <File md5="B99B5340385F2E6FB767172068625C36" import="1">Common/LeaderLS1Atlas128.dds</File>
+    <File md5="753D57E9B694536DFA0B1D3EB96B308D" import="1">Common/LeaderLS1Atlas256.dds</File>
+    <File md5="6CE4FFA4E684F2F313A3E63061D82299" import="1">Common/LeaderLS1Atlas64.dds</File>
+    <File md5="EF5537F2F677D031FE9E4E71E3504945" import="0">Common/LS1 Atlas Mod.xml</File>
+    <File md5="DDDF4AFB6B4EC35BFBFC28FDA823F4B7" import="1">Common/UnitLS1Atlas128.dds</File>
+    <File md5="58ABC71E02B0FD2206418B4462716BC1" import="1">Common/UnitLS1Atlas256.dds</File>
+    <File md5="DAC131C784F52C556233A794080B4D7A" import="1">Common/UnitLS1Atlas45.dds</File>
+    <File md5="FA268DD64CD15A4BC53327014440AF62" import="1">Common/UnitLS1Atlas64.dds</File>
+    <File md5="AF570F514CC55236A78C40F7678E3CD8" import="1">Common/UnitLS1Atlas80.dds</File>
+    <File md5="A4F4CCCC704F6D407764491D2F38ABE3" import="1">KhmerEmpire/DiploKhmerLSMod.dds</File>
+    <File md5="6E3975BC721E5168C9F07427E8B0268B" import="0">KhmerEmpire/Diplomacy.sql</File>
+    <File md5="9F9001BA83B2FC8B9E836185E49481B1" import="1">KhmerEmpire/DoMKhmerLSMod.dds</File>
+    <File md5="534AAF4C599AF3340C90676755327519" import="1">KhmerEmpire/Khmer Civ Related.lua</File>
+    <File md5="8D4C49D5B65A6B5C27C9E028F7A1B40D" import="0">KhmerEmpire/Khmer Building Mod.xml</File>
+    <File md5="75870D9F67B347CEC8F4D9FC1C4C5722" import="0">KhmerEmpire/Khmer Civ Mod.xml</File>
+    <File md5="B2D53B6DBB439D76D43D684480CD0C68" import="0">KhmerEmpire/Khmer Game Text Mod.xml</File>
+    <File md5="6F436BB11B973A46F9A9DD752BF9B41A" import="0">KhmerEmpire/Khmer Leader Mod.xml</File>
+    <File md5="EDF8BE53DA5BB2BF1F4977C40430F544" import="0">KhmerEmpire/Khmer Mod.lua</File>
+    <File md5="9B07AF90846CDB182A0EBC5A1CEEE778" import="0">KhmerEmpire/Khmer Units Mod.xml</File>
+    <File md5="4EBF4F30B8D56B3859F49E614B4A2EF9" import="1">KhmerEmpire/KhmerUnitAlphaAtlas.dds</File>
+    <File md5="92B8502F4BCE49F47394B7B92CC182BA" import="1">KhmerEmpire/Khmer_Leader_Scene_LS_Mod.xml</File>
+    <File md5="B82911809A8336365D8FFA48C0CB65B5" import="1">KhmerEmpire/MapKhmerLSMod.dds</File>
+    <File md5="E1DF56CBD8DDDF32A2BB1706F602E44C" import="0">KhmerEmpire/Model/KhmerMilitiaArtDefine.sql</File>
+    <File md5="AC41C06BA721315512F26433220FEDF7" import="1">KhmerEmpire/Model/no_gloss.dds</File>
+    <File md5="4B6165B8F8AC86B8BAF6A5278F4DBF5C" import="1">KhmerEmpire/Model/Scout_India.blend</File>
+    <File md5="D37916B27DFAA967725A4088C7D0BE48" import="1">KhmerEmpire/Model/Scout_India.dds</File>
+    <File md5="9652078420105ADAFD8E3204D8E3F832" import="1">KhmerEmpire/Model/Scout_India.fxsxml</File>
+    <File md5="2002D65D9924DAF3D31CA6CD4D3E21D9" import="1">KhmerEmpire/Model/Scout_India.gr2</File>
+    <File md5="BD3251C69924EC2E3D330C2C301946D4" import="1">KhmerEmpire/SV_KhmerLS.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Siam2/4UC_siamelephant.sql</UpdateDatabase>
+      <UpdateDatabase>Siam2/4uc_SiamElephant.xml</UpdateDatabase>
+      <UpdateDatabase>Common/LS1 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Khmer Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Model/KhmerMilitiaArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>KhmerEmpire/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="KhmerEmpire/Khmer Mod.lua">
+      <Name>Khmer Trait</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_LIBYAN_DESERT_RAIDER</Type>
+			<Description>TXT_KEY_PROMOTION_LIBYAN_DESERT_RAIDER</Description>
+			<Help>TXT_KEY_PROMOTION_LIBYAN_DESERT_RAIDER_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RivalTerritory>false</RivalTerritory>
+			<LostWithUpgrade>false</LostWithUpgrade>
+			<CityAttackPlunderModifier>125</CityAttackPlunderModifier>
+			<DamageReductionCityAssault>25</DamageReductionCityAssault>
+			<!-- BNW -->
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>EXPANSION2_PROMOTION_ATLAS</IconAtlas>
+			<!-- BNW -->
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_LIBYAN_DESERT_RAIDER</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_Terrains>
+		<Row>
+			<PromotionType>PROMOTION_LIBYAN_DESERT_RAIDER</PromotionType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+			<DoubleMove>true</DoubleMove>
+		</Row>
+	</UnitPromotions_Terrains>	
+</GameData>

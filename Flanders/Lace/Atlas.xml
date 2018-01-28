@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/25/2015 10:30:46 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>hainaut_atlas256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>hainaut_atlas128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>hainaut_atlas80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>hainaut_atlas64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>hainaut_atlas45.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_HAINAUT_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>hainaut_atlas32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

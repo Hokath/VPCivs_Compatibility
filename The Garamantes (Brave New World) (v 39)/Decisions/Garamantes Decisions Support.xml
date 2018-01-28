@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<!--
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>TomatekhGaramantesDecisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	-->
+	<Language_en_US>	
+		<!--Chariot Routes-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CHARIOTS">
+			<Text>Trade Along the Chariot Routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CHARIOTS_DESC">
+			<Text>The Fezzan states are thriving trade routes linking civilizations across the Sahara. Salt, cloth, beads, and metal goods are widely traded in exchange for gold, ivory, and slaves. If we use our chariots to help transfer goods along the oasis routes, we can greatly expand our commercial potential.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Garamantes
+				[NEWLINE][ICON_BULLET]Must own at least 1 Chariot Archer
+				[NEWLINE][ICON_BULLET]May only be enacted before the Renaissance Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 Trade Route
+				[NEWLINE][ICON_BULLET]A Caravan appears near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CHARIOTS_ENACTED_DESC">
+			<Text>The Fezzan states are thriving trade routes linking civilizations across the Sahara. Salt, cloth, beads, and metal goods are widely traded in exchange for gold, ivory, and slaves. If we use our chariots to help transfer goods along the oasis routes, we can greatly expand our commercial potential.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 Trade Route
+				[NEWLINE][ICON_BULLET]A Caravan appears near your [ICON_CAPITAL] Capital
+			</Text>
+		</Row>	
+		<!--Cave Dwellers-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS">
+			<Text>Hunt the Aethiopian Troglodytes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS_DESC">
+			<Text>The cave dwellers feed off serpents and lizards and speak in a tongue like screeching bats. Now they have begun to raid our village farms and ransack passing caravans. Let us give chase and drive them from our lands.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Garamantes
+				[NEWLINE][ICON_BULLET]May only be enacted before the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_STRENGTH] Combat Strength when fighting Barbarians
+				[NEWLINE][ICON_BULLET]A War Chariot appears near your [ICON_CAPITAL] Capital after you research the Wheel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS_ENACTED_DESC">
+			<Text>The cave dwellers feed off serpents and lizards and speak in a tongue like screeching bats. Now they have begun to raid our village farms and ransack passing caravans. Let us give chase and drive them from our lands.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+15% [ICON_STRENGTH] Combat Strength when fighting Barbarians
+				[NEWLINE][ICON_BULLET]A War Chariot appears near your [ICON_CAPITAL] Capital after you research the Wheel
+			</Text>
+		</Row>
+		<!--Dummy Policy-->
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD">
+			<Text>Cave Dwellers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_TEXT">
+			<Text>Cave Dwellers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength vs Barbarians.</Text>
+		</Row>
+	</Language_en_US>
+	<Policies>
+		<Row>
+			<Type>POLICY_GARAMANTES_CAVE_DWELLERS_MOD</Type>
+			<Description>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_HELP</Help>
+			<BarbarianCombatBonus>15</BarbarianCombatBonus>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>
+	</Policies>
+</GameData>

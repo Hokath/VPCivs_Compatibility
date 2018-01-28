@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/28/2016 8:22:27 PM -->
+<GameData>
+	<Buildings>
+		<!-- National Wonders -->
+		<Row>
+			<Type>BUILDING_BASE_CAMP</Type>
+			<BuildingClass>BUILDINGCLASS_TOURIST_CENTER</BuildingClass>
+			<Cost>400</Cost>
+			<GoldMaintenance>2</GoldMaintenance>
+			<PrereqTech>TECH_FLIGHT</PrereqTech>
+			<Description>TXT_KEY_BUILDING_BASE_CAMP</Description>
+			<Civilopedia>TXT_KEY_BUILDING_BASE_CAMP_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_BASE_CAMP_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_BASE_CAMP_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_TOURIST_CENTER</ArtDefineTag>
+			<NukeImmune>true</NukeImmune>
+			<NumCityCostMod>10</NumCityCostMod>
+			<GlobalLandmarksTourismPercent>25</GlobalLandmarksTourismPercent>
+			<GlobalGreatWorksTourismModifier>25</GlobalGreatWorksTourismModifier>
+			<LandmarksTourismPercent>0</LandmarksTourismPercent>
+			<GreatWorksTourismModifier>0</GreatWorksTourismModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>-1</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>CUSTOM_NATURAL_WONDER_ATLAS</IconAtlas>
+			<NationalPopRequired>45</NationalPopRequired>
+			<NearbyMountainRequired>true</NearbyMountainRequired>
+		</Row>
+	</Buildings>
+	<Building_YieldPerXTerrainTimes100>
+		<Row>
+			<BuildingType>BUILDING_BASE_CAMP</BuildingType>
+			<TerrainType>TERRAIN_MOUNTAIN</TerrainType>
+			<YieldType>YIELD_TOURISM</YieldType>
+			<Yield>300</Yield>
+		</Row>
+	</<Building_YieldPerXTerrainTimes100>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_BASE_CAMP</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>50</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_BASE_CAMP">
+			<Text>Base Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASE_CAMP_HELP">
+			<Text>25% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements is added to the [ICON_TOURISM] Tourism output of all Cities, and an additional 25% to this City. [ICON_TOURISM] Tourism output from Great Works in all Cities increased by +25%, and an additional 25% in this City. Gain +3 [ICON_TOURISM] Tourism for every nearby Mountain Tile.[NEWLINE][NEWLINE]The [ICON_PRODUCTION] Production Cost and [ICON_CITIZEN] Population Requirements increase based on the number of cities you own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASE_CAMP_TEXT">
+			<Text>The North Base Camp of Mount Everest is accessed by vehicle through a 100 km road branching to the South from the Friendship Highway near Shelkar. From the Base Camp, all tourists must take the buses managed by the government to limit the traffic in the last stretch of gravel road to a marked hill at 5,200 meters above sea level just before the climbers camp. The "tourist Base Camp" is located about halfway between Rongbuk Monastery; the actual climbers' Base Camp is at the foot of Rongbuk glacier. Climbers typically rest at base camp for several days for acclimatization to reduce the risks and severity of altitude sickness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_BASE_CAMP_STRATEGY">
+			<Text>Base Camp comes significantly earlier than the National Wonder it replaces. Though you must a City with a nearby Mountain to build it, the earlier access to this massive Tourism boost is well worth it.</Text>
+		</Row>
+	</Language_en_US>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TIBET_LS_MOD</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_TOURIST_CENTER</BuildingClassType>
+			<BuildingType>BUILDING_BASE_CAMP</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>CUSTOM_NATURAL_WONDER_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>NaturalWonderAtlas256.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CUSTOM_NATURAL_WONDER_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>NaturalWonderAtlas128.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CUSTOM_NATURAL_WONDER_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>NaturalWonderAtlas80.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CUSTOM_NATURAL_WONDER_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>NaturalWonderAtlas64.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>CUSTOM_NATURAL_WONDER_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>NaturalWonderAtlas45.dds</Filename>
+			<IconsPerRow>8</IconsPerRow>
+			<IconsPerColumn>8</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

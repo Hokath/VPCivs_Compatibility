@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_GHANTA_LS_SHRINE</Type>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>65</Cost>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_GHANTA_LS_SHRINE_HELP</Help>
+			<Description>TXT_KEY_BUILDING_GHANTA_LS_SHRINE</Description>
+			<Civilopedia>TXT_KEY_BUILDING_GHANTA_LS_SHRINE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_GHANTA_LS_SHRINE_STRATEGY</Strategy>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>BUILDING_MOD_LS_8_ATLAS</IconAtlas>
+			<PortraitIndex>0</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_GHANTA_LS_SHRINE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GHANTA_LS_SHRINE</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_GHANTA_LS_SHRINE</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GHANTA_LS_SHRINE</BuildingType>
+			<YieldType>YIELD_GOLDEN_AGE_POINTS</YieldType>
+			<Yield>3</Yield>
+		</Row>
+	</Building_YieldChanges>
+</GameData>

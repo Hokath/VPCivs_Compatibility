@@ -1,0 +1,11 @@
+<Context Font="TwCenMT20" ColorSet="Beige_Black_Alpha" FontStyle="Shadow">
+	<Container Size="Full,Full" ID="LS13FlandersCS"/>
+  <Instance Name="LS13FlandersIN">
+    <WorldAnchor ID="LS13FlandersWA">
+      <Box Anchor="C,C" Size="20,20" Offset="0,0" Color="White.0" Hidden="0" ConsumeMouse="1">
+        <Grid Size="20,20" Anchor="C,C" Offset="0,0" Style="GridBlack8" Hidden="0"/>
+        <Button Anchor="C,C" Size="20,20" Offset="0,0" Color="White.0" Hidden="0" ID="CommuneButtonDetailClick"/>
+      </Box>
+    </WorldAnchor>
+  </Instance>
+</Context>

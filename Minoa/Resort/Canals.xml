@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/31/2013 8:34:55 PM -->
+<GameData>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_3UC_CANALS">
+			<Text>Resort</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_CANALS_HELP">
+			<Text>25% of the [ICON_CULTURE] Culture from World Wonders, Natural Wonders, and Improvements is added to the [ICON_TOURISM] Tourism output of the city. [ICON_TOURISM] Tourism output from Great Works +25%.[NEWLINE][NEWLINE]Generates +1 [ICON_TOURISM] Tourism and +1 [ICON_GOLD] Gold for every 2 Coast Tiles being worked by the City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_CANALS_STRATEGY">
+			<Text>Capitalise on your Coastal Cities with this Hotel replacement that not only generates more Tourism, but also Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_3UC_CANALS_TEXT">
+			<Text>The tourist destination enjoys positive impacts, if there have been improvements to the natural environment such as protection, national parks, or man-made infrastructure, waste-treatment plants. Tourism provides the economic stimulus to allow for diversification of employment and income potential, and develop resources within the community. Improvements in infrastructure and services can benefit both the locals and the tourists. Whereas, heritage tourism focuses on local history or historical events that occurred in the area, and tends to promote education. Positive impacts begin when there is an increase in job opportunities for locals as the tourism industry becomes more developed. There is also an increase in average income that spreads throughout the community when tourism is capitalized on.[35] In addition, the local economy is stimulated and diversified, goods are manufactured more locally, and new markets open for local business owners to expand to.</Text>
+		</Row>
+	</Language_en_US>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>ATLAS_VENICE_CALAL</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>NewCanals256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_VENICE_CALAL</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>NewCanals128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_VENICE_CALAL</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>NewCanals64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>ATLAS_VENICE_CALAL</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>NewCanals45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+
+</GameData>

@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="2db211be-8efa-4b5c-b041-013046f8333a" version="5">
+  <Properties>
+    <Name>[BNW] Minoa</Name>
+    <Teaser>Adds the Minoans</Teaser>
+    <Description>Tested for vox populi
+Anno 1701 Soundtrack</Description>
+    <Authors>LastSword</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="D05F13C153557D775616A64BEE8D490F" import="0">Resort/ICONS/IconAtlas.xml</File>
+    <File md5="C197B5B6F90DD40E2A106D5AED01A8DB" import="1">Resort/ICONS/IconAtlas032.dds</File>
+    <File md5="56951A390EA46448599743E064585EF8" import="1">Resort/ICONS/IconAtlas045.dds</File>
+    <File md5="562A9D2BEC0228C5D2E38729CA0F79BA" import="1">Resort/ICONS/IconAtlas064.dds</File>
+    <File md5="687F2B32EC507B5EE397FC1D1D98CBCD" import="1">Resort/ICONS/IconAtlas080.dds</File>
+    <File md5="F53BC9DBE1EED01D6BE1D291B2BF6BAB" import="1">Resort/ICONS/IconAtlas128.dds</File>
+    <File md5="18B76834F19882BE8CF1BF9DFE4A9AD0" import="1">Resort/ICONS/IconAtlas256.dds</File>
+    <File md5="9A5003D9C802632B0DB0600E59441C0B" import="0">Resort/3UC_VENICE.sql</File>
+    <File md5="B895E052743705EED7898DF1D627BF18" import="0">Resort/Canals.xml</File>
+    <File md5="31BC35D4DC5AC8FB77AA134130061BA8" import="1">Resort/NewCanals128.dds</File>
+    <File md5="A99258DEE16F2645925D1E9275EB71D6" import="1">Resort/NewCanals256.dds</File>
+    <File md5="1F352048638934392B7064877CCFB92B" import="1">Resort/NewCanals45.dds</File>
+    <File md5="5621C5EDE4EA3E171F1C9B33B7EFD626" import="1">Resort/NewCanals64.dds</File>
+    <File md5="D05F13C153557D775616A64BEE8D490F" import="0">DancingGround/ICONS/IconAtlas.xml</File>
+    <File md5="C197B5B6F90DD40E2A106D5AED01A8DB" import="1">DancingGround/ICONS/IconAtlas032.dds</File>
+    <File md5="56951A390EA46448599743E064585EF8" import="1">DancingGround/ICONS/IconAtlas045.dds</File>
+    <File md5="562A9D2BEC0228C5D2E38729CA0F79BA" import="1">DancingGround/ICONS/IconAtlas064.dds</File>
+    <File md5="687F2B32EC507B5EE397FC1D1D98CBCD" import="1">DancingGround/ICONS/IconAtlas080.dds</File>
+    <File md5="F53BC9DBE1EED01D6BE1D291B2BF6BAB" import="1">DancingGround/ICONS/IconAtlas128.dds</File>
+    <File md5="18B76834F19882BE8CF1BF9DFE4A9AD0" import="1">DancingGround/ICONS/IconAtlas256.dds</File>
+    <File md5="80792B9EF6EED4C6071A2E1641EFFDFB" import="0">DancingGround/3UC_SPAIN.sql</File>
+    <File md5="81F6E04814A5DE790FBF5D08A3313F5C" import="0">DancingGround/BullRing.xml</File>
+    <File md5="18348A65AEF6D4F0C411F2817D6765DC" import="0">Minoan/Diplomacy.sql</File>
+    <File md5="14E1AA297FB4306221E6EC5E118E6AAC" import="1">Minoan/DiploMinoanLSMod.dds</File>
+    <File md5="EC1A8FEA7FA9780D63F8F943551740B4" import="1">Minoan/DoMMinoanLSMod.dds</File>
+    <File md5="FB7227AA5C41E9DB0A04003D2842E49E" import="0">Minoan/MinoanMod.xml</File>
+    <File md5="BCCD64EAA1B65F6551E66F0149EFE3FB" import="1">Minoan/MapMinoanLSMod.dds</File>
+    <File md5="A2B252B96F93D0ABA2A832C103DB5D88" import="1">Minoan/Minoan Civ Related.lua</File>
+    <File md5="541DF25F082747435375C10B556B55A9" import="0">Minoan/MinoanMod.lua</File>
+    <File md5="679C5585EA195E3B07D07B0AD049D168" import="0">Minoan/Minoan Building Mod.xml</File>
+    <File md5="2496DC4FDDC8B7A0FE28D80BC8D53EFF" import="1">Minoan/MinoanUnitAlphaAtlas.dds</File>
+    <File md5="556D0A1F10465239A046FE1814311143" import="1">Minoan/Model/battle_galley.fxsxml</File>
+    <File md5="3BD1569650935F56546B491B90602A79" import="1">Minoan/Model/battle_galley.gr2</File>
+    <File md5="8210733B5648035CB03C4CD9DEB34BDA" import="1">Minoan/Model/battle_galley_diff.dds</File>
+    <File md5="38BFBC5B808A64ECAB2EAA0677BC793B" import="0">Minoan/Model/MinoanArtDefine.sql</File>
+    <File md5="887315653F12028310A25B381EFA61F2" import="1">Minoan/LSMinoanPeaceMusic.mp3</File>
+    <File md5="1A21FA3EE66F2F6ED391AFA53FC3F175" import="0">Minoan/Minoan Civ Mod.xml</File>
+    <File md5="4913FA448174A5A38BA6F6B8F446E00D" import="0">Minoan/Minoan Game Text Mod.xml</File>
+    <File md5="D5CA08403FB59EFBAB86D9560FF4F7E8" import="0">Minoan/Minoan Leader Mod.xml</File>
+    <File md5="766B913B26FD65E0EC0826092A3A6433" import="0">Minoan/Minoan Units Mod.xml</File>
+    <File md5="2551291F7AA5C5A96E16D78BA9E202C2" import="1">Minoan/Minoan_Leader_Scene_LS_Mod.xml</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Minoan/SaveUtils.lua</File>
+    <File md5="A95E98BE181B9D9E2D650BA9C5481D11" import="1">Minoan/SV_MinoanLS.dds</File>
+    <File md5="8DA22EC4034EA37D37164082B4B6A3E5" import="1">TheOnetoMergeAll/AlphaLS12Atlas24.dds</File>
+    <File md5="497BD2A9728826B7F8A147C958C9483B" import="1">TheOnetoMergeAll/AlphaLS12Atlas32.dds</File>
+    <File md5="AE742FBD6E9A31472C307801C6EBAA87" import="1">TheOnetoMergeAll/AlphaLS12Atlas48.dds</File>
+    <File md5="9706F4FCD8A7EF9F5445A3C19A257B13" import="1">TheOnetoMergeAll/AlphaLS12Atlas64.dds</File>
+    <File md5="64240CE278429403A5FA334B28563714" import="1">TheOnetoMergeAll/BuildingLS12Atlas128.dds</File>
+    <File md5="DBFE47EB42D748BE323780D73576AEDB" import="1">TheOnetoMergeAll/BuildingLS12Atlas256.dds</File>
+    <File md5="ADAE3F435D99D1E03A107DEC7FFE7F96" import="1">TheOnetoMergeAll/BuildingLS12Atlas45.dds</File>
+    <File md5="29DD94ACB6838762F1377BDA32E1B576" import="1">TheOnetoMergeAll/BuildingLS12Atlas64.dds</File>
+    <File md5="88DAD3D07ADF83F34CF64CBC22D0042D" import="1">TheOnetoMergeAll/CivLS12Atlas128.dds</File>
+    <File md5="C3159146599E73EB3B284B10A27EB96C" import="1">TheOnetoMergeAll/CivLS12Atlas256.dds</File>
+    <File md5="89A317F0ABB65F054EF881EDDDACA5E9" import="1">TheOnetoMergeAll/CivLS12Atlas32.dds</File>
+    <File md5="19442D2C8C0D769C4F005ADA572896CA" import="1">TheOnetoMergeAll/CivLS12Atlas45.dds</File>
+    <File md5="B206986389F7C912444D30E817EEFD53" import="1">TheOnetoMergeAll/CivLS12Atlas64.dds</File>
+    <File md5="3E13A4D02D6E669B76CC9F743D1952CA" import="1">TheOnetoMergeAll/CivLS12Atlas80.dds</File>
+    <File md5="2007BE1B7C32B13C5A3CC813B6321547" import="1">TheOnetoMergeAll/LeaderLS12Atlas128.dds</File>
+    <File md5="D76E726A7723C8D3ED1A01EF0A967599" import="1">TheOnetoMergeAll/LeaderLS12Atlas256.dds</File>
+    <File md5="9C66B89BA848BA54DB5F7685C27441FB" import="1">TheOnetoMergeAll/LeaderLS12Atlas64.dds</File>
+    <File md5="43253D94CD11487C4B15620A4A40FA27" import="0">TheOnetoMergeAll/LS12 Atlas Mod.xml</File>
+    <File md5="9226820FA652172AB0B2279AFBFAF045" import="1">TheOnetoMergeAll/UnitLS12Atlas128.dds</File>
+    <File md5="58E8C0C12FA56E5327BB1175F2FFC0F6" import="1">TheOnetoMergeAll/UnitLS12Atlas256.dds</File>
+    <File md5="CF73B4C2FD75292B8D1EF4DEA54ED270" import="1">TheOnetoMergeAll/UnitLS12Atlas45.dds</File>
+    <File md5="0CF2D57040550AFC9ED0BF05F15866A7" import="1">TheOnetoMergeAll/UnitLS12Atlas64.dds</File>
+    <File md5="36A08D039CA89FCB29A7068D2CD4D68C" import="1">TheOnetoMergeAll/UnitLS12Atlas80.dds</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Resort/ICONS/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>Resort/Canals.xml</UpdateDatabase>
+      <UpdateDatabase>Resort/3UC_VENICE.sql</UpdateDatabase>
+      <UpdateDatabase>DancingGround/BullRing.xml</UpdateDatabase>
+      <UpdateDatabase>DancingGround/ICONS/IconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>DancingGround/3UC_SPAIN.sql</UpdateDatabase>
+      <UpdateDatabase>TheOnetoMergeAll/LS12 Atlas Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Minoan Units Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Minoan Leader Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Minoan Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Minoan Building Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Model/MinoanArtDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Minoan/Minoan Civ Mod.xml</UpdateDatabase>
+      <UpdateDatabase>Minoan/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Minoan/MinoanMod.lua">
+      <Name>Minos</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

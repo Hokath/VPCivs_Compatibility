@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Context>
+	<Box ID="MyBackground" Hidden="1" Anchor="L,B" Size="35,35" Offset="105,10" Color="0,0,0,0" ConsumeMouse="1">
+		<Grid Size="1,1" Anchor="C,C" Offset="0,0" ConsumeMouse="1">
+			<GridButton ID="MyButton" Size="35,35" Anchor="C,C" Offset="0,0" Style="BaseButton">
+<!--				<Label Anchor="C,C" Offset="0,0" String="[ICON_WAR]" ColorSet="Beige_Black_Alpha" />-->
+			</GridButton>
+		</Grid>
+	</Box>
+</Context>

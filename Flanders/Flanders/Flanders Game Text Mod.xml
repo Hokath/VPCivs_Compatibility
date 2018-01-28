@@ -1,0 +1,402 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_FLANDERS_LS_MOD_DESC">
+			<Text>County of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FLANDERS_LS_MOD_SHORT_DESC">
+			<Text>Flanders</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_FLANDERS_LS_MOD_ADJECTIVE">
+			<Text>Flemish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FLANDERS_LS_MOD">
+			<Text>Flanders</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_FLANDERS_LS_MOD_HEADING_1">
+			<Text>Flemings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_FLANDERS_LS_MOD_TEXT_1">
+			<Text>The area that would become the County of Flanders has been inhabited since prehistory. During the times of Julius Caesar, the inhabitants were part of the Belgae, a collective name for all Celtic and Germanic tribes in the north of Gallia. For Flanders in specific these were the Menapii, the Morini, the Nervii and the Atrebates.[NEWLINE][NEWLINE]Julius Caesar conquered the area around 54 b.c. and the population was partially romanised from the 1st to the 3rd century. The Roman road that connected Cologne with Boulogne-sur-Mer was used as a defense perimeter. In the south the Gallo-Romanic population was able to maintain itself, while the north was less populated and suffered from regular floods from the North sea. In the coastal and Scheldt areas Saxon tribes gradually appeared. Saxon was a general term for the Romans, and included Angles, Saxons, and other tribes. The coastal defense around Boulogne and Oudenburg, the so called 'Litus Saxonicum', remained functional until about 420.[NEWLINE][NEWLINE]From their base land Toxandria the Salic Franks further expanded into the Roman empire. The first incursion into the lands of the Atrebates was turned away in 448 at Vicus Helena. But after the murder of the Roman general Flavius Aëtius in 454 and Roman emperor Valentinianus III in 455, the Salic Franks encounterd hardly any resistance and managed to successfully launch their conquest of the later to be County of Flanders.[NEWLINE][NEWLINE]From Duisburg, King Chlodio conquered Cambrai and Tournai, and he reached the Somme. After his death, two Salic kingdoms emerged. Childeric is recorded in 463 as King of Tournay and ally of the Romans against the Visigoths. He was also administrator of the province of Belgica Secunda. His son Clovis I conquered from 486 on all of Northern France.[NEWLINE][NEWLINE]In the 5th century Salic Franks settled in present day Northern-France and Wallonia, primarily around the cities of Courtrai, Tournai and Bavay. They adapted to the local Gallo-Romanic population. From the 6th century, the no-mans-land farther north was filled by Franks from the Rhinelands and other Germanic groups from the Netherlands and Germany.[NEWLINE][NEWLINE]The first wave of immigration in the present day Flemish territory was accompanied by limited Christianisation. In the wake of the immigrants, missionaries tried to convert the heathen population, but they had little success.[NEWLINE][NEWLINE]At the end of the 6th and the 7th century a new inflow emerged from the western Pas-de-Calais. This area had been germanised in the 5th century and descendants of the Saxons and Franks had settled in future Flanders and the Duchy of Brabant. New groups of germanic settlers also came in from the Netherlands and Germany. Their new settlements often received the name of their germanic leader, with '-inga haim' added. [NEWLINE][NEWLINE]The colonisation and germanisation of Flanders took place primarily in the 6th and 7th centuries. In the 7th century the population-level had risen sufficiently to start rebuilding the religious, military and administrative infrastructure. In the area of linguistics, the situation stabilised so that a large, bilingual region with a linear language border could emerge in the 8th century. In Pas-de-Calais, which had been densely populated a long time, a language barrier had emerged in the 6th-7th century, but in the 9th century a romanisation-movement started that has continued until the present day.[NEWLINE][NEWLINE]During the 7th century the first Gaue or pagi were created in the Flemish territories. Gaue were administrative subdivisions of the civitates. The Gaue from the 7th and 8th century would form the basis of the county of Flanders. [NEWLINE][NEWLINE]Charlemagne succeeded his father Pippin the Short in Neustria and Austrasia, and after the death of his brother Karloman he was able to reunite the entire Frankish Empire. Though he resided in Aachen, he spent much time travelling through his territories. In 811 he inspected the fleet that he had ordered built in Boulogne and Ghent, to protect against Viking invasions.[NEWLINE][NEWLINE]The region comprising future Flanders was, from an economic point of view, a flourishing region, with a series of ports along the Scheldt river: Ghent, Tournai, Valenciennes and a number of seaports: Quentovic, Boulogne and Isère portus, a port at the mouth of the river Yser. Moreover, the region included a number of rich abbeys, such as Abbey of St. Bertin, St. Bavo's Abbey, Saint-Amand Abbey and the Abbey of St. Vaast.[NEWLINE][NEWLINE]Charlemagne was succeeded by his son Louis the Pious. Even during Louis' life his three sons started fighting over his heritage. They eventually concluded multiple treaties, of which the Treaty of Verdun, signed in 843, would be the definitive treaty. These treaties created East Francia, Middle Francia and West Francia. West Francia, inherited by Charles the Bald, included the original county of Flanders, that spanned roughly between Oudenburg, Aardenburg and Torhout.[NEWLINE][NEWLINE]After the Middle-Frankish kings died out, the rulers of the West and East-Frankish Kingdoms divided the Middle-Frankish kingdom amongst themselves in 870. Now Western Europe had been divided into two sides: the solid West Francia (the later France) and the loose confederation of principalities of East Francia, that would become the Holy Roman Empire.[NEWLINE][NEWLINE]Militarily, economically and politically, Europe went through a deep crisis. The Vikings invaded from the north, the Magyar from the east and the Saracens from the south. All left trails of destruction. The central authorities of the two Frankish kingdoms were unable to organise an effective defensive, causing the population to lose faith and trust in their far-removed rulers. In the wake of this power vacuum, local powerful individuals saw their chance.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_FLANDERS_LS_MOD_HEADING_2">
+			<Text>History of the County of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_FLANDERS_LS_MOD_TEXT_2">
+			<Text>
+				The County of Flanders originated from the Gau of Pagus Flandrensis, led by the Forestiers dynasty, who had been appointed by Charlemagne, who had made a small contribution by uniting small feudal territories in the higher parts of the Flemish Valley. The forestiers dynasty also strengthened the hold of the church on the relatively desolate area.[NEWLINE][NEWLINE]The first Count of Flanders was Baldwin I, who became count in 862, and a romantic anecdote is connected to this: Baldwin eloped with the daughter of the Frankish king Charles the Bald, Judith of West Francia. Judith, who had previously been married to two English kings, refused her father's command to return to him. After mediation by the Pope, the Frankish King reconciled with his son-in-law, and gave him the title of count, and the corresponding feudal territories as dowry.[NEWLINE][NEWLINE]During the 12th century, the wealth of Flanders increased due to the Champagne fairs. The Champagne fairs were an annual cycle of trading fairs held in towns in the Champagne and Brie regions of France in the Middle Ages. From their origins in local agricultural and stock fairs, the Champagne fairs became an important engine in the reviving economic history of medieval Europe, "veritable nerve centers" serving as a premier market for textiles, leather, fur, and spices. At their height, in the late 12th and the 13th century, the fairs linked the cloth-producing cities of the Low Countries with the Italian dyeing and exporting centers, with Genoa in the lead. The fairs, which were already well-organized at the start of the 12th century, were one of the earliest manifestations of a linked European economy, a characteristic of the High Middle Ages. From the later 12th century, the fairs, conveniently sited on ancient land routes and largely self-regulated through the development of the "merchant law", dominated the commercial and banking relations operating at the frontier region between the north and the Mediterranean.[NEWLINE][NEWLINE]Initially the French kings meant to secure the safety of the northern French border from Viking invasions with this act. The counts, however, made good use of the crisis situation by incorporating the surrounding plundered territories into the county. The counts expanded the influence of the original Flemish pagus over the years over all territories south and west of the Scheldt river, including presentday the lordship of the Four Amts, Zeelandic Flanders, the burgraviate of Aalst to the east and the County of Artois to the south, which remained part of Flanders until it became a separate county in 1237. [NEWLINE][NEWLINE]The House of Flanders stayed in power until 1119, when Baldwin VII of Flanders died heirless, and the county was inherited by Charles the Good, of the House of Denmark. After a short interlude the county went to Thierry of Alsace of the House of Alsace. Under Thierry and his successor Philip of Alsace, Flanders' importance and power increased.[NEWLINE][NEWLINE]In the second half of the 12th century, the county went through a period of great prosperity when Philip of Alsace managed to incorporate the County of Vermandois into Flanders through the inheritance of his wife. The territories he controlled now came to within 25 kilometers of Paris, and were larger than the territories his Feudal Lord, the French King, directly controlled.[NEWLINE][NEWLINE]During the rule of the House of Alsace, cities developed and new institutions were formed. The ports of Gravelines, Dunkirk, as well as Calais by Philip's brother. Aside for colonisation, the ports also functioned to reduce the silting of the Yser and Zwin rivers, which were endangering the accessibility of Ypres and Bruges. [NEWLINE][NEWLINE]Trade partners included England, the Baltic countries and France over sea, and the Rhineland and Italy over land. The wool trade with England was of special importance to the rising cloth industry in Flanders. The wealth of many Flemish cities (as their Belltowers and cloth halls testify) came from the drapery industry. Aside from this, the grain trade with England and through Holland with Hamburg were also important. Saint-Omer became the most important transit-port for French wine in the 12th century. These were the centuries of the breakthrough of the Flemish merchants, with their trade with England, the Baltic area and South-West France, as well as the landrouters to the Rhineland and Italy, though later only the yearly fairs of Champagne. Flanders' flourishing trading towns made it one of the most urbanised parts of Europe.[NEWLINE][NEWLINE]In 1278 Guy of Dampierre, of the House of Dampierre, became Count of Flanders. The King of France wanted to definitively conquer Flanders, and started the Franco-Flemish War (1297–1305). Increasingly powerful in the 12th century, the territory's autonomous urban centres were instrumental in defeating the French invasion attempt, defeating the French at the Battle of the Golden Spurs in 1302. [NEWLINE][NEWLINE]The Battle of the Golden Spurs had been called the first incidence of the gradual "Infantry Revolution" which occurred in Medieval warfare during the 14th century. In conventional military theory of the time, mounted and heavily armoured knights were considered an essential part of military success and consequently warfare was the preserve of an wealthy elite serving as men-at-arms. The fact that this form of army, which was expensive to maintain, could be defeated by basic militia, drawn from the "lower orders", led to a gradual change in the nature of warfare during the subsequent century. The tactics and composition of the Flemish army at Courtrai were later copied or adapted at the other important battles during this period. As a result, cavalry became less important and nobles more commonly fought dismounted. The comparatively low costs of militia armies allowed even small states, such as the Swiss, to raise militarily significant armies and meant that local rebellions were more likely to achieve military success.[NEWLINE][NEWLINE]But, finally, the French prevailed at the battle of Mons-en-Pévèle and with the subsequent treaty of Athis-sur-Orge (1305) Flanders lost Lille, Douai, and Orchies to France and had to pay exorbitant fines, but retained their independence as a fief of the French Kingdom. During this period, Flanders experienced a period of relative prosperity with its strong cloth industry and diverse artwork. Trade in Flanders was so extensive that statues of the Madonna and Child were made in Flanders with ivory, which was only accessible on the Indian Ocean trade networks
+				Flemish prosperity waned in the following century, however, owing to widespread European population decline following the Black Death of 1348, the disruption of trade during the Anglo-French Hundred Years' War (1338–1453), and increased English cloth production. [NEWLINE][NEWLINE]Through his marriage with Margaret of Dampierre Philip the Bold, duke of Burgundy, made an end to the independence of Flanders. Flanders became the possession of the House of Valois-Burgundy, that ruled over the Duchy of Burgundy. In 1449 the city of Ghent revolted against duke Philip the Good. In 1453 Philip crushed the rebels at the battle of Gavere, ending the revolt.[NEWLINE][NEWLINE]The cities of Ghent and Bruges had previously operated virtually as city-states and upon the death of duke Charles the Bold attempted to re-assert this position by means of the Great Privilege that they wrested from Mary of Burgundy, Charles' daughter and successor. In 1482 this last Burgundian ruler died, making her young son Philip I of Castile of the House of Habsburg the new count, and her husband Maximilian I of Austria the regent. The Flemish cities staged two more revolts, but these were ultimately subdued by the armies of the Holy Roman Empire.[NEWLINE][NEWLINE]Under Charles V, Holy Roman Emperor, Flanders became a member of the Burgundian Circle. Through the Pragmatic Sanction of 1549, the County of Flanders was officially detached from France. It became an independent territory of the Holy Roman Empire. This constitutional act made Flanders part of the Seventeen Provinces, that constituted the Low Countries and from then on would be inherited as a whole.[NEWLINE][NEWLINE]The Low Countries held an important place in the Empire. For Charles personally, they were the region where he spent his childhood. Because of trade and industry and the rich cities, they were also important for the treasury. Lordship transferred to the Spanish branch of the House of Habsburg with Philip II of Spain, and after 1556 belonged to the Kings of Spain.[NEWLINE][NEWLINE]In 1566, the “Beeldenstorm”, a revolt organized by protestant Christians, broke loose. The Beeldenstorm spread through all of the Low Countries and eventually led to the outbreak of the Eighty Years' war and the secession of the Republic of the Seven United Netherlands. Originally Flanders cooperated with the northern provinces as a member of the Union of Utrecht, and also signed the Act of Abjuration in 1581, but from 1579 to 1585, in the period known as the "Ghent (Calvinist) Republic", it was reconquered by the Spanish army. Due to the bankrupty of Spain at the end of this war, Spanish soldiers started revolting and plundering the Flemish region, leading up to the Sacking of Antwerps, which led to the decline of the importance of Antwerps in the Low Countries.[NEWLINE][NEWLINE]Flanders stayed under Spanish control. Through the efforts of the French King Louis XIV, the entire southern part of Flanders was annexed by France, and became known as South-Flanders or French Flanders.  After the extinction of the Spanish branch of the Habsburgs, the Austrian branch of the Habsburgs became counts of Flanders. Under Maria Theresa of Austria, the Austrian Netherlands flourished. In 1789 a revolution broke out against emperor Joseph II of Austria. In 1790 the county of Flanders and a separate province called West-Flanders (1713), which constituted the territories given back by France to the Emperor, were two of the founding members of the United States of Belgium. Just like the other parts of the Austrian Netherlands, the County of Flanders declared its independence.[NEWLINE][NEWLINE]The county of Flanders officially ceased to exist in 1795, when it was annexed by France. After the French Revolution the county was not restored, and instead the two departments continued their existence as the provinces of East- and West-Flanders in the Unitarian United Kingdom of the Netherlands, and later after the Belgian Revolution in Belgium.
+			</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_1">
+			<Text>Bruges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_2">
+			<Text>Ghent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_3">
+			<Text>Antwerps</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_4">
+			<Text>Leuven</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_5">
+			<Text>Brussels</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_6">
+			<Text>Courtrai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_7">
+			<Text>Mechelen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_8">
+			<Text>Arras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_9">
+			<Text>Tournai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_10">
+			<Text>St-Omer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_11">
+			<Text>Ypres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_12">
+			<Text>Lille</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_13">
+			<Text>Cambrai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_14">
+			<Text>Callais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_15">
+			<Text>Valenciennes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_16">
+			<Text>Douai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_17">
+			<Text>Oostende</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FLANDERS_LS_MOD_18">
+			<Text>Oudenaarde</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_0">
+			<Text>Ambrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_1">
+			<Text>Gergeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_2">
+			<Text>Kelemen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_3">
+			<Text>Tobor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_4">
+			<Text>Peterke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_5">
+			<Text>Tzigana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_6">
+			<Text>Palika</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_7">
+			<Text>Klotild</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_8">
+			<Text>Lulia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FLANDERS_LS_MOD_9">
+			<Text>Aranyu</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_LIVED">
+			<Text>1249 - 1322</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DESC">
+			<Text>Robert III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_NAME">
+			<Text>Robert III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_SUBTITLE">
+			<Text>Count</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_TITLES_1">
+			<Text>The Lion of Flanders</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_TEXT_1">
+			<Text>
+				Robert III of Flanders, also called Robert of Béthune and nicknamed The Lion of Flanders (De Leeuw van Vlaanderen), was Count of Nevers and Count of Flanders. Robert was the oldest son of Guy of Dampierre from his first marriage with Matilda of Béthune.[NEWLINE][NEWLINE]Robert of Béthune gained military fame in Italy, when he fought at the side of his father-in-law, Charles I of Sicily (1265–1268) against the last Hohenstaufens, Manfred and Conradin. Together with his father he took part in 1270 in the Eighth Crusade, led by Saint Louis. After his return from the Crusade he continued to be a loyal aid for his father, politically and militarily, in the fight against the attempts of the French King Philip IV the Fair to add Flanders to the French crown lands. Guy of Dampierre broke all feudal bonds with the French king mainly under his influence. When the resistance seemed hopeless Robert allowed himself to be taken prisoner, together with his father and his brother, and taken to the French King.[NEWLINE][NEWLINE]Shortly before that he had become the de facto ruler of Flanders. He was locked in the castle of Chinon. In July 1305, after his father had died in captivity, he was allowed to return to his county. The execution of the Treaty of Athis-sur-Orge would mark the rule of Count Robert. Initially he achieved some success in moving the countryside and the cities to fulfill their duties. However, in April 1310 he started to radically resist the French, with support of his subjects and his family. Both diplomatically and militarily he managed to make a stand against the French King. When he marched to Lille in 1319 the militia from Ghent refused to cross the Leie with him. When his grandson Louis I of Nevers pressured him as well, Robert gave up the battle and went to Paris in 1320 to restore feudal bonds with the French King. He was awarded the Honours of Knight of the Order of the Ship (awarded by his sovereign Saint Louis IX to promote the Crusade in North Africa). But even after that, he would hamper the execution of the Treaty of Athis-sur-Orge. Robert died in 1322 and was succeeded by his grandson, Louis, Count of Nevers and Rethel.[NEWLINE][NEWLINE]During the 19th century, numerous nationalist-minded writers, poets and artists in various European countries were busily taking up heroic characters from their countries' respective histories and myths, and making them into romantic symbols of national feeling and pride. The prominent Flemish writer Hendrik Conscience did that very effectively with the character of Robert of Béthune, and his book The Lion of Flanders is still considered a masterpiece of Flemish literature.[NEWLINE][NEWLINE]Historians have accused Conscience of some historical inaccuracies such as depicting his hero as having taken part in the Battle of the Golden Spurs, contrary to historical fact. It was also pointed out that in reality The Lion of Flanders probably did not even speak Dutch. Certainly, he could not have been in any way a Flemish nationalist, having lived in the feudal era, centuries before the very concept of nationalism appeared. The same could, however, be said of numerous other ancient heroes made into the symbols of various national movements - and such criticism never stopped nationalists from continuing to revere such heroes.[NEWLINE][NEWLINE]During the Second World War, Nazi Germany undertook the policy of calling the Waffen-SS units raised among various occupied countries and peoples by the names of respective national heroes, so as to mask the fact that those joining these units were in fact collaborators with a foreign occupier. As part of that policy, the Flemish Waffen-SS unit was called the Lions of Flanders.
+				Conscience's portrayal of the count also inspired the unofficial anthem of Flemish nationalists and in recent decades officially recognised as the national anthem of Flanders.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_FLANDERS_LS_MOD_TEXT">
+			<Text>
+				We bow down to you, Robrecht the Third, Lion of Flanders, Count of Nevers and Flanders. During your rule, the County of Flanders enjoyed a Golden Age. Due to the Champagne Fairs, the people of Flanders were able to secure prosperity and wealth by trading its world renowned Flemish Tapestry and cloth and introducing exotic products such as dyes, spices and other luxuries. The city of Bruges, due to its strategic location, flourishing cloth industry, and many canals, was rightfully called the Venice of the North. As son of the Count of Flanders, you earned victory and fame early on through military success in Italy and your participation in the Eight Crusade. Politically, you inspired your subjects and your allies to take up arms against the French attempts to threaten Flanders’ autonomy. Although you were defeated, you continued to inspire the people of Flanders, and later the people of Belgium in their dreams to make their country the most prosperous and powerful in Europe.[NEWLINE][NEWLINE]Oh great leader, your people have long waited and dreamed for an opportunity to once again raise their country to new heights. They come to you now, hoping that you can once again assure a new Golden Age. Will you lead your people to a brighter future? Can you restore the wealth and dominance of your people? Can you defend the sovereignty of your county? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_FIRSTGREETING_1">
+			<Text>Welcome and greetings to you, traveller, in this land of plenty. They call me the Lion of Flanders, but you may call me Robrecht.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_FIRSTGREETING_2">
+			<Text>Peace and honour, wanderer. You have found your way to Flanders. Stay as long as you like, I hear the Champagne Fair is in town.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DEFEATED_1">
+			<Text>You may chain me, but you will never tame me. You cannot take away this lion's pride.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DEFEATED_2">
+			<Text>You will never tame me, not so long as one Fleming lives. For they shall fight you, tooth and claw, until freedom is theirs once again.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_REPEAT_TOO_MUCH_1">
+			<Text>Enough, enough.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_GREETING_HOSTILE_HELLO_1">
+			<Text>I would say I'm pleased to see you, but the truth of the matter is that you disgust me, to my core.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_GREETING_POLITE_HELLO_1">
+			<Text>Greetings and welcome back to Flanders. Care for some Champagne?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>The woods and marshes shall never truely be yours! The people shall rise up against you, when the time is right, imperialist scum.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>You make claims on more land than any one man should own. Be wary of the sin of greed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DENOUNCE_1">
+			<Text>My people defy you![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DENOUNCE_2">
+			<Text>It is a sad day when one leader must denounce another. But you have fallen, and the rest of the world will now have to decide if they are with the light, or with you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>As if I needed another reason to send more trade routes to my friends, the city-states.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>If you were a city-state, I might care about your opinion.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} is a threat to peace and prosperity in the region. Though we do so at great risk and cost to ourselves, the renegade must be stopped!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_COOP_WAR_REQUEST_2">
+			<Text>No godly man can live and not fear for the souls of all those ruled by {1_PlayerName:textkey}, we must save them from perdition!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_COOP_WAR_TIME_1">
+			<Text>For his crimes, {1_PlayerName:textkey}'s court has felt their last dawn. Witnessed their last sunrise.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DEC_FRIENDSHIP_1">
+			<Text>Together we can become more wealthy, more prosperous and most importantly more safe than we ever could alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DEC_FRIENDSHIP_2">
+			<Text>We must make sure that the evildoers of this world know that the good and the beautiful stand ready to defend their own.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention thay you have a large number of Units near my borders. There is plenty of room for some rather ambitiously scaled graveyards in that vicinity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_RETURNED_CIVILIAN_1">
+			<Text>Go with my blessing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_RETURNED_CIVILIAN_2">
+			<Text>Peace and mercy be with you all the days of your life, most righteous leader.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_1">
+			<Text>I mean no disrespect, but you're a menace. You're a menace now, and you've always been a menace. And the only thing that's going to change is that you're going to be an even bigger menace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_2">
+			<Text>Have you been to the top of the Belfort yet? I hear the view is to die for...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_3">
+			<Text>I would teach you a lesson in manners, but I don't hit women.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_4">
+			<Text>Stay away from me, you look like you just took a swim in a bog.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_MILITARY_1">
+			<Text>Your military shall never succeed in their aims. Not because they are weak, or under-equipped, or evil in the sight of God - though they are all these things - but because they do not fight for a righteous cause. They do not love their country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_UNHAPPINESS_1">
+			<Text>I hear you are having difficulties with your populations' unhappiness. Perhaps you would like some Tapestries to cover up the top panel?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_CITIES_1">
+			<Text>My communes are more developed than your cities will ever be.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_INSULT_CULTURE_1">
+			<Text>You'll never see the blue jeans coming.</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DONT_SETTLE_NO_1">
+			<Text>Lands are owned by their people. If I settle there, they are mine. That is the end of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DONT_SETTLE_YES_1">
+			<Text>My apologies, I shall retreat my men immediately.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_LUXURY_TRADE_1">
+			<Text>My guilds have been working overtime to see this trade was possible. I hope it is to your liking?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_RESPONSE_REQUEST_1">
+			<Text>Are you a friend of the guild?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_ATTACKED_HOSTILE_1">
+			<Text>You loved, and were loved, but now you will lie in Flanders fields... forever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_ATTACKED_EXCITED_1">
+			<Text>When I have wrenched the standard from your cold, dead hands, I promise I will hold it high in the battles that are to come. Though you have met your end, your people shall be safe with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_ATTACKED_SAD_1">
+			<Text>Another will take up the torch. You will never rest easy, butcher.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_ATTACKED_BETRAYED_1">
+			<Text>You who have broken faith with a friend, if I should die on the field of battle, I promise to haunt you for the rest of your days.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_GENERIC_1">
+			<Text>Only those who fear life, fear death. If you were truely righteous, then you would be prepared to die for what you believed in. At any time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_LAND_1">
+			<Text>Plently of room for poppy fields in your lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_WORLD_CONQUEST_1">
+			<Text>If you are not with us, then you are against us. Do not fear... you will be given the chance to repent your ways, before the end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_WORLD_CONQUEST_2">
+			<Text>Fish, iron, rumour and war. Which is your least-favourite monger?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_OPPORTUNITY_1">
+			<Text>Just passing through.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_DESPERATE_1">
+			<Text>When this is over, I shall go on pilgrimage. Clearly I have displeased God.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_BETRAYAL_1">
+			<Text>I'm not worrying about the aftermath of this, in the house of the hanged man, no one mentions the noose.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_DOW_BETRAYAL_2">
+			<Text>Good day.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_TOO_SOON_NO_PEACE_1">
+			<Text>But glory has not yet been won!</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_BAD_1">
+			<Text>Away with you and your naysaying.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FLANDERS_LS_MOD_ROBERTIII_GOOD_1">
+			<Text>Heartfelt thanks, friend.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_FLANDERS_SHORT">
+			<Text>Champagne Fairs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_FLANDERS">
+			<Text>Each Trade Route with a [ICON_CITY_STATE] City-State grants two copies of the [ICON_RES_LS_TAPESTRY] Tapestry Luxury Resource. Workers can create Marsh Features on Coastal Tiles. Civilian and Melee Units gain +33% [ICON_STRENGTH] Strength and double [ICON_MOVES] Movement on Marsh.</Text>
+		</Row>
+		<!--Resource-->
+		<Row Tag="TXT_KEY_RESOURCE_LS_TAPESTRY">
+			<Text>Tapestry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_LS_TAPESTRY_TEXT">
+			<Text>Tapestries make up an integral part of Flemish cultural heritage. Most of the tapestries have religious, mythological and historical subjects as well as hunting and harvest scenes. They are known for their high quality and extended use of colours. The oldest were made in the 13th century. The most important production centres were Doornik and Arras. These two centres were issued with many assignments by the Dukes of Burgundy. In the 14th century tapestries were also made in Bruges, Oudenaarde and Ghent. In the 16th century Brussels and Antwerp also rose in importance. Antwerp was also the distribution centre for the rest of Europe. In the 17th century the popularity of tapestries faded, and in the 18th century the making of tapestries in Flanders stopped altogether.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_LS_TAPESTRY_HELP">
+			<Text>Tapestry may only be gained by Flanders, through trading with City-States and constructing a Unique Building. Provides no bonus while derelict.[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Monopoly Bonus:[ENDCOLOR] +10% [ICON_CULTURE] Culture in all owned Cities.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U0
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_GOEDENDAG">
+			<Text>Goedendag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_GOEDENDAG">
+			<Text>This Unit receives a major bonus when fighting on Marshes. Moving through Marsh does not consume all this unit's movement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_FLANDERS_MARSH">
+			<Text>Golden Spurs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_FLANDERS_MARSH_HELP">
+			<Text>+33% [ICON_STRENGTH] Combat Bonus and double [ICON_MOVES] Movement on Marsh.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_GOEDENDAG_TEXT">
+			<Text>While it was common for towns to raise bodies of soldiers in times of need, few could provide such well-equiped forces as Flanders. Enriched by powerful trade, their cities and communes required all citizens be liable for military service. Drawing different classes of troops depending on income, the cavalry were drawn from the nobles, for instance. Lower classes served the role of pikemen, famously bringing down mounted knights with great effect on the Marshes at Courtrai, and triggering something of a revolution in medieval military strategy. [NEWLINE][NEWLINE]These frontline troops were named after the unusual pike-mace hybrid weapon they carried. The name "goedendag" derives from Dutch, usually taken in English sources to have meant "good day", with reference to the revolt of Bruges in 1302, at which the guildsmen of Bruges purportedly took over the city by greeting people in the streets, and murdering anyone who answered with a French accent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_GOEDENDAG_STRATEGY">
+			<Text>Cheaper and slightly stronger than the Pikeman, which it replaces, the Goedendag gains bonuses on Marsh and Floodplains Tiles. Firstly, this Unit gains a +33% [ICON_STRENGTH] Strength bonus on 'Wetlands', and secondly moves through these tiles rapidly, where other Units would be impeded.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_CRAFT_GUILD_HELP">
+			<Text>When a [ICON_INTERNATIONAL_TRADE] Land Trade Route originating here and targeting another Civ is completed, receive a [ICON_TOURISM] Tourism boost with the Civ based on your recent [ICON_CULTURE] Culture and [ICON_TOURISM] Tourism output.[NEWLINE][NEWLINE]Land Trade Routes gain +50% Range and +3 [ICON_GOLD] Gold, Merchant Specialists in this City gain +1 [ICON_GOLD] Gold, and this City''s [ICON_CONNECTED] Connection to the [ICON_CAPITAL] Capital generates +10% [ICON_GOLD] Gold.[NEWLINE]Nearby [ICON_RES_TRUFFLES] Truffles: +2 [ICON_GOLD] Gold.[NEWLINE]Nearby [ICON_RES_COTTON] Cotton: +1 [ICON_PRODUCTION] Production, +1 [ICON_CULTURE] Culture.[NEWLINE]Nearby [ICON_RES_FUR] Furs: +1 [ICON_GOLD] Gold, +1 [ICON_PRODUCTION] Production.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food and [ICON_TOURISM] Tourism in City for every City-State Friend, and +2 for every Ally.[NEWLINE]Generates 1 [ICON_RES_LS_TAPESTRY] Tapestry nearby.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_CRAFT_GUILD">
+			<Text>Guildhall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_CRAFT_GUILD_STRATEGY">
+			<Text>In addition to the function provided by the Caravansary, the building grants yields for having influence over City States. Alongside the Unique Ability, this encourages Flanders to invest in the diplomacy game. The placement of Tapestry on the map allows its Monopoly benefit to be gained.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_LS_CRAFT_GUILD_TEXT">
+			<Text>The guilds in the Middle Ages were an important part of Medieval life. A higher social status could be achieved through membership to Craft guilds. There were two main kinds of Medieval guilds - Merchant Guilds and Craft Guilds. The word “guild” is from the Saxon “gilden” meaning "to pay" and refers to the subscription paid to the Guilds by their members.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_IMPROVEMENT_LS_FLANDERS_COMMUNE">
+			<Text>Bourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_FLANDERS_COMMUNE_HELP">
+			<Text>Can be only built on Marsh Tiles and over Flemish unique resources. Provides +2 [ICON_FOOD] Food, +2 [ICON_PRODUCTION] Production, and +1 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LS_FLANDERS_COMMUNE">
+			<Text>Construct a Bourg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LS_FLANDERS_COMMUNE_HELP">
+			<Text>Creates a unique Flemish Improvement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_LS_FLANDERS_COMMUNE_REC">
+			<Text>I recommend you [COLOR_POSITIVE_TEXT]Construct a Flemish[ENDCOLOR] here![NEWLINE][NEWLINE]It will greatly increase power of your Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_LS_FLANDERS_COMMUNE_TEXT">
+			<Text>Medieval communes in the European Middle Ages had sworn allegiances of mutual defense (both physical defense and of traditional freedoms) among the citizens of a town or city. They took many forms, and varied widely in organization and makeup. Communes are first recorded in the late 11th and early 12th centuries, thereafter becoming a widespread phenomenon as rural populations and tradesmen moved to urban centers to exhange goods and services. They had the greater development in central-northern Italy, where they were real city-states based on partial democracy, whereas in Germany and Flanders they became free cities, independent from local nobility. When the Belgian State was created in 1831, there were 2739 communes. Since the amalgamation of communes in 1975, there are still 589.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/25/2015 10:37:58 AM -->
+<GameData>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>luxembourg_atlas256.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>luxembourg_atlas128.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>luxembourg_atlas80.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>luxembourg_atlas64.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>luxembourg_atlas45.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_LUXEMBOURG_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>luxembourg_atlas32.dds</Filename>
+			<IconsPerRow>2</IconsPerRow>
+			<IconsPerColumn>2</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>MORI_UNIT_FLAG_CHASSEUR_ATLAS</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>JFD_ChasseurUnitFlag_32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/5/2013 2:12:16 PM -->
+<GameData>
+	
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_PLATEAU_FARM">
+			<Text>Plateau Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLATEAU_FARM_HELP">
+			<Text>+33% [ICON_PRODUCTION] Production when building Mounted Units. Increases the Military Unit Supply Cap from Population in the City by 10%.[NEWLINE]Nearby [ICON_RES_HORSE] Horses: +2 [ICON_PRODUCTION] Production.[NEWLINE]Nearby [ICON_RES_SHEEP] Sheep: +2 [ICON_PRODUCTION] Production.[NEWLINE]Nearby [ICON_RES_COW] Cattle: +2 [ICON_PRODUCTION] Production.[NEWLINE]Nearby [ICON_RES_BISON] Bison: +2 [ICON_PRODUCTION] Production.[NEWLINE]+1 [ICON_FOOD] Food and +1 [ICON_CULTURE] Culture for every 2 Mountains in workable range.[NEWLINE][NEWLINE]Units trained in this City receive the Altitude Training Promotion for free.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLATEAU_FARM_STRATEGY">
+			<Text>This Tibetan unique building also boosts Bison and Mountains, synergising with the Civs start bias. Further along these lines, Units trained in the City are more effective in Hills.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PLATEAU_FARM_TEXT">
+			<Text>The Tibetan economy focuses on plateau animal husbandry and farming. Sheep, goat and yak are their main domestic animals and highland barley and wheat are their main crops. Zanba (roasted highland barley) and buttered tea are main food for herdsmen. About 78 percent of Tibetans are farmers or herders. Many have trouble feeding themselves. A comfortable life or a life near starvation conditions depends on whether a family has a good or bad harvest.</Text>
+		</Row>
+	</Language_en_US>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_TIBET_LS_MOD</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_STABLE</BuildingClassType>
+			<BuildingType>BUILDING_PLATEAU_FARM</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>PLATEAU_FARM_ICON_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>PLATEAU_FARM256.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PLATEAU_FARM_ICON_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>PLATEAU_FARM128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PLATEAU_FARM_ICON_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>PLATEAU_FARM64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>PLATEAU_FARM_ICON_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>PLATEAU_FARM45.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+
+		<Row>
+			<Atlas>RICE_ATLAS</Atlas>
+			<IconSize>256</IconSize>
+			<Filename>BuildingLS4Atlas256.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RICE_ATLAS</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>BuildingLS4Atlas128.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RICE_ATLAS</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>BuildingLS4Atlas64.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RICE_ATLAS</Atlas>
+			<IconSize>45</IconSize>
+			<Filename>BuildingLS4Atlas45.dds</Filename>
+			<IconsPerRow>3</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+</GameData>

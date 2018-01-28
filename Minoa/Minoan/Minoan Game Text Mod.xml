@@ -1,0 +1,367 @@
+﻿<GameData>
+	<Language_en_US>
+		<!----------------------------------------------------------------
+						State
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_MINOAN_LS_MOD_DESC">
+			<Text>Minoan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOAN_LS_MOD_SHORT_DESC">
+			<Text>The Minoans</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MINOAN_LS_MOD_ADJECTIVE">
+			<Text>Minoan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MINOAN_LS_MOD">
+			<Text>The Minoans</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MINOAN_LS_MOD_HEADING_1">
+			<Text>Minoans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MINOAN_LS_MOD_TEXT_1">
+			<Text>Minoan, Any member of a non-Indo-European people who flourished (c. 3000–c. 1100 bc) on the island of Crete during the Bronze Age. The sea was the basis of their economy and power. Their sophisticated culture, based at Knossos, was named for the legendary King Minos. It represented the first high civilization in the Aegean area. The Minoans exerted great influence on the Mycenaean culture of the Greek islands and mainland. Minoan culture reached its peak c. 1600 bc and was noted for its cities and palaces, extended trade contacts, and use of writing. Its art included elaborate seals, pottery, and, notably, the vibrant frescoes decorating palace walls, which depicted both religious and secular scenes, including goddesses reflective of a matriarchal religion. Palace ruins show evidence of paved streets and piped water. Familiar Minoan art motifs are the snake (symbol of the goddess) and the bull and leaping dancer, also of mystical significance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MINOAN_LS_MOD_HEADING_2">
+			<Text>History of the Minoan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MINOAN_LS_MOD_TEXT_2">
+			<Text>The oldest evidence of inhabitants on Crete are preceramic Neolithic farming community remains that date to approximately 7000 BC. A comparative study of DNA haplogroups of modern Cretan men showed that a male founder group, from Anatolia or the Levant, is shared with the Greeks. The neolithic population dwelt in open villages. Fishermen's huts were built on the shores, while the fertile Mesara Plain was used for agriculture.[NEWLINE][NEWLINE]The Bronze Age began in Crete around 2700 BC. In the late 3rd millennium BC, several localities on the island developed into centers of commerce and handwork. This enabled the upper classes to continuously practice leadership activities and to expand their influence. It is likely that the original hierarchies of the local elites were replaced by monarchist power structures – a precondition for the creation of the great palaces. From the Early Bronze Age (3500 BC to 2600 BC), the Minoan civilization on Crete showed a promise of greatness.[NEWLINE][NEWLINE]At the end of the MMII period (1700 BC), there was a large disturbance in Crete, probably an earthquake, or possibly an invasion from Anatolia. The palaces at Knossos, Phaistos, Malia, and Kato Zakros were destroyed. But with the start of the Neopalatial period, population increased again, the palaces were rebuilt on a larger scale and new settlements were built all over the island. This period (the 17th and 16th centuries BC, MM III / Neopalatial) represents the apex of the Minoan civilization. There was another natural catastrophe around 1600 BC, possibly an eruption of the Thera volcano. The Minoans rebuilt the palaces, making them greater than before.[NEWLINE][NEWLINE]The influence of the Minoan civilization outside Crete has been seen in the evidence of valuable Minoan handicraft items on the Greek mainland. It is likely that the ruling house of Mycene was connected to the Minoan trade network. After around 1700 BC, the material culture on the Greek mainland achieved a new level due to Minoan influence. Connections between Egypt and Crete are prominent. Minoan ceramics are found in Egyptian cities and the Minoans imported several items from Egypt, especially papyrus, as well as architectural and artistic ideas. The Egyptian hieroglyphs served as a model for the Minoan pictographic writing, from which the famous Linear A and Linear B writing systems later developed.[NEWLINE][NEWLINE]Around 1450 BC, Minoan culture experienced a turning point due to a natural catastrophe, possibly an earthquake. Another eruption of the Thera volcano has been linked to this downfall, but its dating and implications remain controversial. Several important palaces in locations such as Mallia, Tylissos, Phaistos, Hagia Triade as well as the living quarters of Knossos were destroyed. The palace in Knossos seems to have remained largely intact. This resulted in the Dynasty in Knossos being able to spread its influence over large parts of Crete, until it was overrun by Mycenaean Greeks.[NEWLINE][NEWLINE]The Minoan palace sites were occupied by the Mycenaeans around 1420 BC (1375 BC according to other sources), who adapted the Linear A Minoan script to the needs of their own Mycenaean language. It was a form of Greek, which was written in Linear B. The first such archive anywhere is in the LMII-era "Room of the Chariot Tablets". The Mycenaeans generally tended to adapt, rather than destroy, Minoan culture, religion and art. They continued to operate the economic system and bureaucracy of the Minoans.[NEWLINE][NEWLINE]Knossos remained an administrative center until 1200 BC. The last of the Minoan sites was the defensive mountain site of Karfi, a refuge site which displays vestiges of Minoan civilization almost into the Iron Age.</Text>
+		</Row>
+		<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_1">
+			<Text>Knossos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_2">
+			<Text>Phaistos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_3">
+			<Text>Malia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_4">
+			<Text>Kato Zakros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_5">
+			<Text>Galatas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_6">
+			<Text>Agia Triada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_7">
+			<Text>Gournia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_8">
+			<Text>Pyrgos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_9">
+			<Text>Vasiliki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_10">
+			<Text>Fournu Korfi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_11">
+			<Text>Pseira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_12">
+			<Text>Mount Juktas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_13">
+			<Text>Arkalochori</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_14">
+			<Text>Karfi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_15">
+			<Text>Akrotiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_16">
+			<Text>Zominthos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_17">
+			<Text>Maleme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_18">
+			<Text>Khania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_19">
+			<Text>Armenoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MINOAN_LS_MOD_20">
+			<Text>Myxorrouma</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_0">
+			<Text>Agapios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_1">
+			<Text>Herakleitos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_2">
+			<Text>Diodotos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_3">
+			<Text>Hesiod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_4">
+			<Text>Metrophanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_5">
+			<Text>Rhode</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_6">
+			<Text>Myrrine</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_7">
+			<Text>Adriana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_8">
+			<Text>Demostrate</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MINOAN_LS_MOD_9">
+			<Text>Agatha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!----------------------------------------------------------------
+						Leader
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DESC">
+			<Text>Minos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_LIVED">
+			<Text>????</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_NAME">
+			<Text>Minos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_SUBTITLE">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_TITLES_1">
+			<Text>Prince</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_TEXT_1">
+			<Text>Minos appears in Greek literature as the king of Knossos as early as Homer's Iliad and Odyssey. Thucydides tells us Minos was the most ancient man known to build a navy. He reigned over Crete and the islands of the Aegean Sea three generations before the Trojan War. He lived at Knossos for periods of nine years, where he received instruction from Zeus in the legislation which he gave to the island. He was the author of the Cretan constitution and the founder of its naval supremacy.[NEWLINE][NEWLINE]On the Athenian stage Minos is a cruel tyrant, the heartless exactor of the tribute of Athenian youths to feed to the Minotaur; in revenge for the death of his son Androgeus during a riot.[NEWLINE][NEWLINE]To reconcile the contradictory aspects of his character, as well as to explain how Minos governed Crete over a period spanning so many generations, two kings of the name of Minos were assumed by later poets and rationalizing mythologists, such as Diodorus Siculus and Plutarch— "putting aside the mythological element", as he claims— in his life of Theseus. According to this view, the first King Minos was the son of Zeus and Europa and brother of Rhadamanthys and Sarpedon. This was the 'good' king Minos, and he was held in such esteem by the Olympian gods that, after he died, he was made one of the three 'Judges of the Dead', alongside his brother Rhadamanthys and half-brother Aeacus. The wife of this 'Minos I' was said to be Itone (daughter of Lyctius) or Crete (a nymph or daughter of his stepfather Asterion), and he had a single son named Lycastus, his successor as King of Crete. Lycastus had a son named Minos, after his grandfather, born by Lycastus' wife, Ida, daughter of Corybas. This 'Minos II'— the 'bad' king Minos— is the son of this Lycastus, and was a far more colorful character than his father and grandfather. It would be to this Minos that we owe the myths of Theseus, Pasiphae, the Minotaur, Daedalus, Glaucus, and Nisus. Unlike Minos I, Minos II fathered numerous children, including Androgeus, Catreus, Deucalion, Ariadne, Phaedra, and Glaucus — all born to him by his wife Pasiphaë. Through Deucalion, he was the grandfather of King Idomeneus, who led the Cretans to the Trojan War.[NEWLINE][NEWLINE]Doubtless there is a considerable historical element in the legend, perhaps in the Phoenician origin of Europa; it is possible that not only Athens, but Mycenae itself, were once culturally bound to the kings of Knossos, as Minoan objects appear at Mycenaean sites.[NEWLINE][NEWLINE]Minos himself is said to have died at Camicus in Sicily, whither he had gone in pursuit of Daedalus, who had given Ariadne the clue by which she guided Theseus through the labyrinth. He was killed by the daughter of Cocalus, king of Agrigentum, who poured boiling water over him while he was taking a bath. Subsequently his remains were sent back to the Cretans, who placed them in a sarcophagus, on which was inscribed: "The tomb of Minos, the son of Zeus."[NEWLINE][NEWLINE]The earlier legend knows Minos as a beneficent ruler, legislator, and suppressor of piracy. His constitution was said to have formed the basis of that of Lycurgus for Sparta.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_OF_MAN_MINOAN_LS_MOD_TEXT">
+			<Text>Sun and the Serpent watch over you, oh mythical and wonderous King Minos, Ruler of Crete, Ancestor of Greece. Contemporaries of the Ancient Egyptians, your people were the foremost naval power in the Levant for hundreds of years. The tales of your exploits on Earth fell into mystery, and only clues remain as to the extent of your power. Did you truly demand human sacrifice of Athens? Were the caverns under your palace the twisted labryinth of legend? We will carry your secrets to the underworld, mighty king.[NEWLINE][NEWLINE]Son of the Goddess, you come to this new world as its God-King! The power of the Earthshaker is broken, and we live no longer in the shadow of his fiery wrath! Will you rebuild the glorious metropolis of Knossos? Will your navy bring the sophistication of Crete to every corner of this uncultured world? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						Diplomacy
+		------------------------------------------------------------------>
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_FIRSTGREETING_1">
+			<Text>Ariadne watch over your house, noble traveller! Please, I know it's hard, but try not to fall madly in love with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_FIRSTGREETING_2">
+			<Text>Welcome to my palace, traveller. I am Minos, King of Legend! Now tell me, have you seen any suspicious Great Engineers recently?</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DEFEATED_1">
+			<Text>Kill me in the autumn... and I shall arise... in... spring...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DEFEATED_2">
+			<Text>Argh... This toga... is... ruined.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_REPEAT_TOO_MUCH_1">
+			<Text>I'm going to have to make it a rule that delegates must navigate the labryinth between calling audiences with me. This is too much.</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_GREETING_HOSTILE_HELLO_1">
+			<Text>We're holding all state affairs in the labryinth today, second door on the right, down the very long and spooky staircase. Watch your step.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_GREETING_POLITE_HELLO_1">
+			<Text>That toga, with those sandals? So totally in right now. That little adornment on the left sholder, brings out your eyes; do I detect Tyrian Purple, perhaps?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>If you're trying to earn yourself a one way voyage to the underworld, you're going the right way about it. By that I mean: your soul shall drown in a river of blood and fire for all eternity!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Look, that city just doesn't go there. If you don't see that then I don't think we can be friends.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DENOUNCE_1">
+			<Text>I'm a trend setter. Once everyone else sees how fashionable it is to denounce you, you're finished.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DENOUNCE_2">
+			<Text>There is no place for barbarians in Crete.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Oh no you didn't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>"Malevolent Overlord"!? Bitch, I might be.</Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_COOP_WAR_REQUEST_1">
+			<Text>It's better to be feared than to be loved, don't you agree? If {1_PlayerName:textkey} won't love me, then they will fear me. Give me your support in this and I will know who I can trust in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_COOP_WAR_REQUEST_2">
+			<Text>{1_PlayerName:textkey} thinks they are more cultured, more sophisticated, than I am. This is, quite frankly, unacceptable. Let's show {1_PlayerName:textkey} what a real cultures do to those who insult them!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_COOP_WAR_TIME_1">
+			<Text>Get in the chariot, bitches. We're invading {1_PlayerName:textkey}.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DEC_FRIENDSHIP_1">
+			<Text>I've grown very fond of you. Let's face it, we're perfect for each other.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DEC_FRIENDSHIP_2">
+			<Text>Let's make our friendship official. Everyone will be so jealous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>It's come to my attention thay you have a large number of Units near my borders. Please don't make a mess, you'll disrupt my figs shipments. Figs are so hot right now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_RETURNED_CIVILIAN_1">
+			<Text>This was so thoughtful of you! May Genii bless your women and harvests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_RETURNED_CIVILIAN_2">
+			<Text>I was absolutely bereft when those men were taken. It pleases me more than I can say to see them safely returned.</Text>
+		</Row>
+		<!--Insults-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_1">
+			<Text>We wear meandros on Wednesdays, you can't sit with us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_2">
+			<Text>That toga is so last season.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_3">
+			<Text>Be wary of my Gods. Those who fly too close to the sun get burned.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_4">
+			<Text>Your body will lie in the labryinth forever.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_MILITARY_1">
+			<Text>The only thing scary about your military is their chlamys. Nasty.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_UNHAPPINESS_1">
+			<Text>If I were a citizen of your empire, I would be miserable too.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_CITIES_1">
+			<Text>It's hard to explain what I think of your cities. Basically, they feel how you look.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_INSULT_CULTURE_1">
+			<Text>You will be defenceless against my secret weapon: jeans!</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DONT_SETTLE_NO_1">
+			<Text>How about you don't covet lands that you have no right to?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DONT_SETTLE_YES_1">
+			<Text>I don't know why I ever wanted to settle near someone like you, anyway.</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_LUXURY_TRADE_1">
+			<Text>Having access to a wide range of luxuries is critical.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_RESPONSE_REQUEST_1">
+			<Text>It's the... uh... anniversary! Yes, the anniversary of our meeting! 100 turns today! Or was it 200?</Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_ATTACKED_HOSTILE_1">
+			<Text>You barbarian! Years of peace between, and for what?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_ATTACKED_EXCITED_1">
+			<Text>You will soon learn why Athens of old feared the minotaur banner.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_ATTACKED_SAD_1">
+			<Text>This is not ok. I am not ok with this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_ATTACKED_BETRAYED_1">
+			<Text>There is no place you will be able to hide. I will find you.</Text>
+		</Row>
+		<!--AI Declaring War on Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_GENERIC_1">
+			<Text>The Labrys has been chosen. Your time has come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_LAND_1">
+			<Text>Your people are going to be considerably better off under my rule.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_WORLD_CONQUEST_1">
+			<Text>You look upon the true ruler of this world. How can any mortal pretend to my rightful throne?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_WORLD_CONQUEST_2">
+			<Text>You will wander the labryinth until the end of your days.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_OPPORTUNITY_1">
+			<Text>This is a war of opportunity. An act of sport. Think nothing of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_DESPERATE_1">
+			<Text>I... I am the son of heaven! You are a mere mortal! How dare you seek to dominate me, to oppress my people under your yoke. I'm what's hip. I'm what's happening! I'm blowing up right now!  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_BETRAYAL_1">
+			<Text>If you can't handle me at my worse, you don't deserve me at my best.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_DOW_BETRAYAL_2">
+			<Text>I hope this doesn't cause a rift between us, bitch.</Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_TOO_SOON_NO_PEACE_1">
+			<Text>When I eventually decide to give you peace, you will be required to send a large amount of population to me for sacrifice.</Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_BAD_1">
+			<Text>I can't believe you just said that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MINOAN_LS_MOD_MINOS_GOOD_1">
+			<Text>Nice.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						UA
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_TRAIT_LS_MINOAN_SHORT">
+			<Text>Bounty of Atlantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LS_MINOAN">
+			<Text>Resources that naturally yield [ICON_FOOD] Food randomly provide +2 from [ICON_FOOD],[ICON_PEACE],[ICON_CULTURE],[ICON_GOLD],[ICON_TOURISM] cycling every turn. Atolls generate +2 [ICON_TOURISM] Tourism. Civilian and Diplomatic Units have double movement on Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_MINOAN_COAST">
+			<Text>Naval Tradition</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LS_MINOAN_COAST_HELP">
+			<Text>Double movement [POSTIVE_TEXT_COLOR]on Coast[ENDCOLOR]</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U1
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_UNIT_LS_PENTECONTER">
+			<Text>Argo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LS_PENTECONTER">
+			<Text>Each Argo can discover sunken Ancient Ruins while exploring the coast (up to 3 times).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_PENTECONTER_TEXT">
+			<Text>The band of heroes who accompanied Jason to find the Golden Fleece - the Argonauts - are in some sources refered to as Minyans, a prehistoric people settled in the Aegean region. While archaeological styles sometimes associated with the Minyans are distinct from that of the Minoan culture, their role in Mycenaean legend is open to wide speculation.  It seems entirely possible that ancient Greek historians conflated aspects of a culture that most probably arrived in the region from the baltic region with the mighty, seafaring empire which existed at the same time. In any case the Argo was generally imagined like a Greek warship, a galley, and authors hypothesized that she was the first ship of this type that had gone out on a high-sea voyage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LS_PENTECONTER_STRATEGY">
+			<Text>Unlike the Penteconter, which it replaces, the Argo are available at Pottery; it is, however, much weaker. Uniquely, each Argo (independantly) may discover up to 3 hidden Ancient Ruins while exploring the coast, gaining their benefits. Use the Penteconter to explore the coasts, accumulate bonus Ancient Ruins and then transition into control of the ancient seas.</Text>
+		</Row>
+		<!----------------------------------------------------------------
+						U2
+		------------------------------------------------------------------>
+		<Row Tag="TXT_KEY_BUILDING_LS_MINOAN_PALACE">
+			<Text>Anaktora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_MINOAN_PALACE_HELP">
+			<Text>+1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold from Coast and Ocean Tiles.[NEWLINE][NEWLINE]Forms a [ICON_CONNECTED] City Connection with other cities via water if they also have Lighthouses.[NEWLINE][NEWLINE]Gain +1 [ICON_PRODUCTION] Production and +1 [ICON_TOURISM] Tourism for every 2 Sea tiles worked by the City. Granary, Temple, and Workshop in this City gain +1 [ICON_PEACE] Faith and +1 [ICON_TOURISM] Tourism.[NEWLINE][NEWLINE]City must be built next to the Coast.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_MINOAN_PALACE_TEXT">
+			<Text>Palaces, or Anaktora, are the best-known Minoan building types excavated on the island. They are monumental buildings serving administrative purposes, as evidenced by the large archives unearthed by archaeologists. Each of the palaces excavated to date has its own unique features, but they also share features that set them apart from other structures. The palaces are often multi-storeyed, with interior and exterior staircases, light wells, massive columns, storage magazines as of a granary, and courtyards both for open-air shrines and workshops.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LS_MINOAN_PALACE_STRATEGY">
+			<Text>The Anaktora significantly increases the power of Coastal Cities. Firstly by improving the rewards gained from working Coast and Ocean tiles, and secondly by improving the yields from a selection of other buildings.</Text>
+		</Row>
+</GameData>
